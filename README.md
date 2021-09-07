@@ -13,6 +13,7 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Learning Resources
 
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
+* [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
 
 ## Applications
 
@@ -20,10 +21,11 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Libraries
 
-* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
+* [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
 * [mupq/pqm4](https://github.com/mupq/pqm4)
+* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 
 ## Algorithm (NIST Round 3)
 
