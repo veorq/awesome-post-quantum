@@ -17,7 +17,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Applications
 
-* [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN) 
+* [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
 
 ## Libraries
 
@@ -26,8 +26,10 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
-  
+
 * [mupq/pqm4](https://github.com/mupq/pqm4)
+
+* [SIKE for Java](https://github.com/wultra/sike-java)
 
 ## Algorithm (NIST Submissions)
 
@@ -49,7 +51,7 @@ TODO: add missing links and missing algorithms
 
 ### Isogeny-based
 
-* SIKE (KEM)
+* [SIKE](https://sike.org/) (KEM)
 
 ### Lattice-based
 
