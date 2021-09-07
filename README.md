@@ -68,3 +68,5 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Companies
 
 Respectable companies offering PQ solutions.
+
+* [PQShield](https://pqshield.com/)
