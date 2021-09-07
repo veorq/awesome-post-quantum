@@ -21,24 +21,52 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [pqm4](https://github.com/mupq/pqm4)
 
-## Algorithms
+## Algorithm (NIST Submissions)
 
 Official homepages, and implementations of specific PQ algorithms.
 
+TODO: add missing links and missing algorithms
+
 ### Code-based
+
+* BIKE (KEM)
+
+* Classic McEliece (KEM)
+
+* HQC (KEM)
 
 ### Hash-based
 
+* SPHINCS+ (signature)
+
 ### Isogeny-based
+
+* SIKE (KEM)
 
 ### Lattice-based
 
-* [Kyber](https://pq-crystals.org/kyber) (KEM)
+* [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist)
 
-* [Dilithium](https://pq-crystals.org/dilithium/) (Signature)
+* Falcon (signature, finalist)
+
+* [Kyber](https://pq-crystals.org/kyber) (KEM, finalist)
+
+* NTRU (KEM, finalist)
+
 
 ### MQ-based
 
+* GeMSS (signature)
+
+* Rainbow (signature, finalist)
+
+### ZKP-based
+
+* Picnic (signature)
+
+
+
+## Algorithms (Others)
 
 ## Companies
 
