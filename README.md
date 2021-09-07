@@ -7,13 +7,13 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Initiatives
 
 * [NIST's Post-Quantum Cryptography
-  Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
-
+  Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization)
 * [Open Quantum Safe](https://openquantumsafe.org/)
 
 ## Learning Resources
 
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
+* [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
 
 ## Applications
 
@@ -21,62 +21,49 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Libraries
 
-* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
-
+* [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
-
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
-
 * [mupq/pqm4](https://github.com/mupq/pqm4)
-
+* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [SIKE for Java](https://github.com/wultra/sike-java)
 
-## Algorithm (NIST Submissions)
-
-Official homepages, and implementations of specific PQ algorithms.
-
-TODO: add missing links and missing algorithms
+## Algorithm (NIST Round 3)
 
 ### Code-based
 
-* BIKE (KEM)
-
-* Classic McEliece (KEM)
-
-* HQC (KEM)
+* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate)
+* [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist)
+* [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate)
 
 ### Hash-based
 
-* SPHINCS+ (signature)
+* [SPHINCS+](https://sphincs.org/) (signature, alternate candidate)
 
 ### Isogeny-based
 
-* [SIKE](https://sike.org/) (KEM)
+* [SIKE](https://sike.org/) (KEM, alternate candidate)
 
 ### Lattice-based
 
 * [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist)
-
-* Falcon (signature, finalist)
-
+* [Falcon](https://falcon-sign.info/) (signature, finalist)
+* [FrodoKEM](http://frodokem.org/) (KEM, alternate candidate)
 * [Kyber](https://pq-crystals.org/kyber) (KEM, finalist)
-
-* NTRU (KEM, finalist)
-
+* [NTRU](https://ntru.org/) (KEM, finalist)
+* [NTRU Prime](https://ntruprime.cr.yp.to/) (KEM, alternate candidate)
+* [SABER](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, finalist)
 
 ### MQ-based
 
-* GeMSS (signature)
-
-* Rainbow (signature, finalist)
+* [GeMSS](https://www-polsys.lip6.fr/Links/NIST/GeMSS.html) (signature,
+  alternate candidate)
+* [Rainbow](https://www.pqcrainbow.org/) (signature, finalist)
 
 ### ZKP-based
 
-* Picnic (signature)
+* [Picnic](https://microsoft.github.io/Picnic/) (signature)
 
-
-
-## Algorithms (Others)
 
 ## Companies
 
