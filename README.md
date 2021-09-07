@@ -29,7 +29,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [mupq/pqm4](https://github.com/mupq/pqm4)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 
-## Algorithm (NIST Round 3)
+## Algorithms (NIST Round 3)
 
 
 ### Code-based
