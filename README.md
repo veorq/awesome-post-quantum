@@ -4,13 +4,16 @@ A curated list of resources about post-quantum cryptography.
 
 To contribute, please file a PR. Please list items alphabetically.
 
-
 ## Initiatives
 
 * [NIST's Post-Quantum Cryptography
   Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
 
 * [Open Quantum Safe](https://openquantumsafe.org/)
+
+## Learning Resources
+
+* [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 
 ## Libraries
 
