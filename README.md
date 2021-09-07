@@ -12,12 +12,14 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Learning Resources
 
+* [IACR ePrint](https://www.google.com/search?q=site%3Aeprint.iacr.org+%22post-quantum%22)
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
 
 ## Applications
 
 * [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
+* [StarkWare](https://starkware.co/) (PQ proofs of knowledge)
 
 ## Libraries
 
@@ -28,7 +30,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [SIKE for Java](https://github.com/wultra/sike-java)
 
-## Algorithm (NIST Round 3)
+## Algorithms (NIST Round 3)
 
 ### Code-based
 
@@ -68,3 +70,5 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Companies
 
 Respectable companies offering PQ solutions.
+
+* [PQShield](https://pqshield.com/)
