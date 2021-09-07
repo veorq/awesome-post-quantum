@@ -19,6 +19,7 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Applications
 
 * [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN) 
+* [StarkWare](https://starkware.co/) (PQ proofs of knowledge)
 
 ## Libraries
 
