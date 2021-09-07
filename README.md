@@ -16,6 +16,8 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [liboqs](https://github.com/open-quantum-safe/liboqs)
 
+* [pqm4](https://github.com/mupq/pqm4)
+
 ## Algorithms
 
 Official homepages, and implementations of specific PQ algorithms.
