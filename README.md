@@ -17,6 +17,8 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Libraries
 
+* [classic-mceliece-rs](https://github.com/nixberg/classic-mceliece-rs)
+
 * [liboqs](https://github.com/open-quantum-safe/liboqs)
 
 * [pqm4](https://github.com/mupq/pqm4)
