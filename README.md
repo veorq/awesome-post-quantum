@@ -15,11 +15,19 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 
+## Applications
+
+* [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN) 
+
 ## Libraries
 
-* [liboqs](https://github.com/open-quantum-safe/liboqs)
+* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 
-* [pqm4](https://github.com/mupq/pqm4)
+* [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
+
+* [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
+  
+* [mupq/pqm4](https://github.com/mupq/pqm4)
 
 ## Algorithm (NIST Submissions)
 
