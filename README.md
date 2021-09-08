@@ -74,6 +74,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 Respectable companies offering PQ solutions.
 
+* [IBM](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html)
 * [PQShield](https://pqshield.com/)
 
 ## Misc
