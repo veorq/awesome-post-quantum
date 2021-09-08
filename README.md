@@ -28,6 +28,8 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
 * [mupq/pqm4](https://github.com/mupq/pqm4)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
+* [PQClean/PQClean](https://github.com/PQClean/PQClean)
+* [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
 * [wultra/sike-java](https://github.com/wultra/sike-java)
 
 ## Algorithms (NIST Round 3)
@@ -72,3 +74,7 @@ To contribute, please file a PR. Please list items alphabetically.
 Respectable companies offering PQ solutions.
 
 * [PQShield](https://pqshield.com/)
+
+## Misc
+
+* [SUPERCOP](https://bench.cr.yp.to/results-kem.html) (benchmarks)
