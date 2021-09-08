@@ -18,7 +18,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Applications
 
-* [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN) 
+* [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
 * [StarkWare](https://starkware.co/) (PQ proofs of knowledge)
 
 ## Libraries
@@ -28,9 +28,9 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
 * [mupq/pqm4](https://github.com/mupq/pqm4)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
+* [wultra/sike-java](https://github.com/wultra/sike-java)
 
 ## Algorithms (NIST Round 3)
-
 
 ### Code-based
 
