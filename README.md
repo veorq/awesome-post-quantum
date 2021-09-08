@@ -66,7 +66,8 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ### ZKP-based
 
-* [Picnic](https://microsoft.github.io/Picnic/) (signature)
+* [Picnic](https://microsoft.github.io/Picnic/) (signature, alternate
+  candidate)
 
 
 ## Companies
