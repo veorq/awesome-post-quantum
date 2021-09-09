@@ -9,6 +9,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [NIST's Post-Quantum Cryptography
   Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization)
 * [Open Quantum Safe](https://openquantumsafe.org/)
+* [Post-quantum cryptography for long-term security PQCRYPTO](http://pqcrypto.eu.org/)
 
 ## Learning Resources
 
@@ -24,6 +25,7 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Libraries
 
 * [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
+* [libpqcrypto](https://libpqcrypto.org/)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
 * [mupq/pqm4](https://github.com/mupq/pqm4)
