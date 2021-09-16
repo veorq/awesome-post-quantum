@@ -23,6 +23,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Libraries
 
+* [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
 * [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
@@ -74,8 +75,14 @@ To contribute, please file a PR. Please list items alphabetically.
 
 Respectable companies offering PQ solutions.
 
+* [AWS](https://docs.aws.amazon.com/kms/latest/developerguide/pqtls.html)
 * [IBM](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html)
 * [PQShield](https://pqshield.com/)
+
+## Standardization Efforts
+
+* [Draft RFC: TLS 1.2 Hybrid PQ Key Exchange](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid)
+* [Draft RFC: TLS 1.3 Hybrid PQ Key Exchange](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
 
 ## Misc
 
