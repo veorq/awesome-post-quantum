@@ -15,8 +15,6 @@ To contribute, please file a PR. Please list items alphabetically.
 * [IACR ePrint](https://www.google.com/search?q=site%3Aeprint.iacr.org+%22post-quantum%22)
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
-* [Post Quantum Cryptography](https://link.springer.com/book/10.1007/978-3-540-88702-7) 2009 book from 
-  Springer.
 
 ### SoK-type Papers
 
