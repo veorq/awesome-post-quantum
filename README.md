@@ -16,6 +16,11 @@ To contribute, please file a PR. Please list items alphabetically.
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
 
+### SoK-type Papers
+
+* [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
+* [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
+
 ## Applications
 
 * [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
@@ -68,7 +73,6 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [Picnic](https://microsoft.github.io/Picnic/) (signature, alternate
   candidate)
-
 
 ## Companies
 
