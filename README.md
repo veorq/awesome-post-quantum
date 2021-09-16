@@ -15,6 +15,13 @@ To contribute, please file a PR. Please list items alphabetically.
 * [IACR ePrint](https://www.google.com/search?q=site%3Aeprint.iacr.org+%22post-quantum%22)
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
+* [Post Quantum Cryptography](https://link.springer.com/book/10.1007/978-3-540-88702-7) 2009 book from 
+  Springer.
+
+### SoK-type Papers
+
+* [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
+* [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
 
 ## Applications
 
@@ -68,7 +75,6 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [Picnic](https://microsoft.github.io/Picnic/) (signature, alternate
   candidate)
-
 
 ## Companies
 
