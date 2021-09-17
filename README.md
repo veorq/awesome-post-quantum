@@ -10,21 +10,24 @@ To contribute, please file a PR. Please list items alphabetically.
   Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization)
 * [Open Quantum Safe](https://openquantumsafe.org/)
 
+
 ## Learning Resources
 
 * [IACR ePrint](https://www.google.com/search?q=site%3Aeprint.iacr.org+%22post-quantum%22)
 * [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
 
-### SoK-type Papers
+SoK-type papers:
 
 * [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
 * [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
+
 
 ## Applications
 
 * [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
 * [StarkWare](https://starkware.co/) (PQ proofs of knowledge)
+
 
 ## Libraries
 
@@ -38,23 +41,26 @@ To contribute, please file a PR. Please list items alphabetically.
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
 * [wultra/sike-java](https://github.com/wultra/sike-java)
 
-## Algorithms (NIST Round 3)
 
-### Code-based
+## Algorithms 
+
+## NIST Round 3
+
+Code-based:
 
 * [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate)
 * [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist)
 * [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate)
 
-### Hash-based
+Hash-based:
 
 * [SPHINCS+](https://sphincs.org/) (signature, alternate candidate)
 
-### Isogeny-based
+Isogeny-based:
 
 * [SIKE](https://sike.org/) (KEM, alternate candidate)
 
-### Lattice-based
+Lattice-based:
 
 * [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist)
 * [Falcon](https://falcon-sign.info/) (signature, finalist)
@@ -64,29 +70,43 @@ To contribute, please file a PR. Please list items alphabetically.
 * [NTRU Prime](https://ntruprime.cr.yp.to/) (KEM, alternate candidate)
 * [SABER](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, finalist)
 
-### MQ-based
+MQ-based:
 
 * [GeMSS](https://www-polsys.lip6.fr/Links/NIST/GeMSS.html) (signature,
   alternate candidate)
 * [Rainbow](https://www.pqcrainbow.org/) (signature, finalist)
 
-### ZKP-based
+ZKP-based:
 
 * [Picnic](https://microsoft.github.io/Picnic/) (signature, alternate
   candidate)
 
+
+## Other Algorithms
+
+* All [NIST Round 1 submissions](https://csrc.nist.gov/Projects/post-quantum-cryptography/Round-1-Submissions)
+
+Isogeny-based:
+
+* [CSIDH](https://csidh.isogeny.org/) (KEM)
+
+
 ## Companies
 
-Respectable companies offering PQ solutions.
+Respectable companies offering PQ solutions:
 
 * [AWS](https://docs.aws.amazon.com/kms/latest/developerguide/pqtls.html)
 * [IBM](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html)
 * [PQShield](https://pqshield.com/)
 
+
 ## Standardization Efforts
 
-* [Draft RFC: TLS 1.2 Hybrid PQ Key Exchange](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid)
-* [Draft RFC: TLS 1.3 Hybrid PQ Key Exchange](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
+IETF Internet Drafts:
+
+* [Hybrid Post-Quantum Key Encapsulation Methods (PQ KEM) for Transport Layer Security 1.2 (TLS)](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid)
+* [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
+
 
 ## Misc
 
