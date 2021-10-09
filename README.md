@@ -9,6 +9,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [NIST's Post-Quantum Cryptography
   Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization)
 * [Open Quantum Safe](https://openquantumsafe.org/)
+* [US Department of Homeland Security roadmap](https://www.dhs.gov/quantum)
 
 
 ## Learning Resources
