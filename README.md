@@ -7,7 +7,7 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Initiatives
 
 * [NIST's Post-Quantum Cryptography
-  Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization)
+  Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) ([Selected Algorithms 2022](https://csrc.nist.gov/projects/post-quantum-cryptography/selected-algorithms-2022) announcement)
 * [Open Quantum Safe](https://openquantumsafe.org/)
 * [US Department of Homeland Security roadmap](https://www.dhs.gov/quantum)
 
@@ -49,24 +49,24 @@ SoK-type papers:
 
 Code-based:
 
-* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate)
-* [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist)
-* [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate)
+* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate, **round 4**)
+* [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist, **round 4**)
+* [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate, **round 4**)
 
 Hash-based:
 
-* [SPHINCS+](https://sphincs.org/) (signature, alternate candidate)
+* [SPHINCS+](https://sphincs.org/) (signature, alternate candidate, **selected**)
 
 Isogeny-based:
 
-* [SIKE](https://sike.org/) (KEM, alternate candidate)
+* [SIKE](https://sike.org/) (KEM, alternate candidate, **round 4**)
 
 Lattice-based:
 
-* [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist)
-* [Falcon](https://falcon-sign.info/) (signature, finalist)
+* [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist, **selected**)
+* [Falcon](https://falcon-sign.info/) (signature, finalist, **selected**)
 * [FrodoKEM](http://frodokem.org/) (KEM, alternate candidate)
-* [Kyber](https://pq-crystals.org/kyber) (KEM, finalist)
+* [Kyber](https://pq-crystals.org/kyber) (KEM, finalist, **selected**)
 * [NTRU](https://ntru.org/) (KEM, finalist)
 * [NTRU Prime](https://ntruprime.cr.yp.to/) (KEM, alternate candidate)
 * [SABER](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, finalist)
