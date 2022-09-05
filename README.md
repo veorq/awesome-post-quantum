@@ -116,3 +116,4 @@ IETF:
 
 * [PQC WIKI](https://pqc-wiki.fau.edu/w/Special:DatabaseHome)
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) (benchmarks)
+* [You could have broken SIDH](https://yx7.cc/blah/2022-08-22.html)
