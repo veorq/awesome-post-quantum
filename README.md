@@ -8,6 +8,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [NIST's Post-Quantum Cryptography
   Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) ([Selected Algorithms 2022](https://csrc.nist.gov/projects/post-quantum-cryptography/selected-algorithms-2022) announcement)
+* [NIST's  Recommendation for Stateful Hash-Based Signature Schemes](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf)
 * [Open Quantum Safe](https://openquantumsafe.org/)
 * [US Department of Homeland Security roadmap](https://www.dhs.gov/quantum)
 
