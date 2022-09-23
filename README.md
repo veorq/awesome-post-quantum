@@ -27,6 +27,7 @@ SoK-type papers:
 ## Applications
 
 * [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
+* [QRL](https://theqrl.org/) (PQ Blockchain)
 * [StarkWare](https://starkware.co/) (PQ proofs of knowledge)
 
 
@@ -40,6 +41,7 @@ SoK-type papers:
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
+* [theQRL/qrllib](https://github.com/theQRL/qrllib)
 * [wultra/sike-java](https://github.com/wultra/sike-java)
 
 
