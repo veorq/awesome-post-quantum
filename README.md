@@ -78,32 +78,32 @@ ZKP-based:
 
 Code-based:
 
-* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate, **round 4**)
-* [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist, **round 4**)
-* [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate, **round 4**)
+* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM)
+* [Classic McEliece](https://classic.mceliece.org/) (KEM)
+* [HQC](https://www.pqc-hqc.org/) (KEM)
 
 Isogeny-based:
 
-* [SIKE](https://sike.org/) (KEM, alternate candidate, **round 4**)
+* [SIKE](https://sike.org/) (KEM)
     - Withdrawn, see for example [You could have broken SIDH](https://yx7.cc/blah/2022-08-22.html)
 
 ### Selected algorithms 2022
 
 Lattice-based:
 
-* [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist, **selected**)
+* [Dilithium](https://pq-crystals.org/dilithium/) (signature)
     - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/ipd)
-* [Falcon](https://falcon-sign.info/) (signature, finalist, **selected**)
-* [Kyber](https://pq-crystals.org/kyber) (KEM, finalist, **selected**)
+* [Falcon](https://falcon-sign.info/) (signature)
+* [Kyber](https://pq-crystals.org/kyber) (KEM)
     - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/ipd)
 
 Hash-based:
 
-* [SPHINCS+](https://sphincs.org/) (signature, alternate candidate, **selected**)
+* [SPHINCS+](https://sphincs.org/) (signature)
     - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/ipd)
 
 
-# NIST PQC Digital Signature Schemes
+## NIST PQC Digital Signature Schemes
 
 This project coming after the selection of 4 signatures in 2022 aims to
 select algorithms "that are not based on structured lattices" and/or
