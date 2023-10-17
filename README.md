@@ -4,30 +4,31 @@ A curated list of resources about post-quantum cryptography.
 
 To contribute, please file a PR. Please list items alphabetically.
 
+We try to keep this page up to date, as some resources and URLs may become
+obsolete. If you notice such issues before us, please file PR or an
+Issue.
+
+
 ## Initiatives
 
 * [NIST's Post-Quantum Cryptography
   Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) ([Selected Algorithms 2022](https://csrc.nist.gov/projects/post-quantum-cryptography/selected-algorithms-2022) announcement)
 * [Open Quantum Safe](https://openquantumsafe.org/)
 * [US Department of Homeland Security roadmap](https://www.dhs.gov/quantum)
+* [French ANSSI views](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
 
 
 ## Learning Resources
 
 * [IACR ePrint](https://www.google.com/search?q=site%3Aeprint.iacr.org+%22post-quantum%22)
-* [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
+* [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
+* 
 
 SoK-type papers:
 
 * [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
 * [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
-
-
-## Applications
-
-* [Microsoft/PQCrypto-VPN](https://github.com/Microsoft/PQCrypto-VPN)
-* [StarkWare](https://starkware.co/) (PQ proofs of knowledge)
 
 
 ## Libraries
@@ -40,33 +41,24 @@ SoK-type papers:
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
-* [wultra/sike-java](https://github.com/wultra/sike-java)
 
 
-## Algorithms 
+## NIST Post-Quantum Cryptography Standardization
 
-## NIST Round 3
+* Homepage [NIST Post-Quantum
+  Cryptography](https://csrc.nist.gov/Projects/post-quantum-cryptography)
 
-Code-based:
+* All [Round 1 submissions](https://csrc.nist.gov/Projects/post-quantum-cryptography/Round-1-Submissions)
 
-* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate, **round 4**)
-* [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist, **round 4**)
-* [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate, **round 4**)
 
-Hash-based:
+## Round 3 submissions
 
-* [SPHINCS+](https://sphincs.org/) (signature, alternate candidate, **selected**)
-
-Isogeny-based:
-
-* [SIKE](https://sike.org/) (KEM, alternate candidate, **round 4**)
+(Only listing those that were not selected for standardization or round
+4)
 
 Lattice-based:
 
-* [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist, **selected**)
-* [Falcon](https://falcon-sign.info/) (signature, finalist, **selected**)
 * [FrodoKEM](http://frodokem.org/) (KEM, alternate candidate)
-* [Kyber](https://pq-crystals.org/kyber) (KEM, finalist, **selected**)
 * [NTRU](https://ntru.org/) (KEM, finalist)
 * [NTRU Prime](https://ntruprime.cr.yp.to/) (KEM, alternate candidate)
 * [SABER](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, finalist)
@@ -82,28 +74,57 @@ ZKP-based:
 * [Picnic](https://microsoft.github.io/Picnic/) (signature, alternate
   candidate)
 
+### Round 4 submissions
+
+Code-based:
+
+* [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM, alternate candidate, **round 4**)
+* [Classic McEliece](https://classic.mceliece.org/) (KEM, finalist, **round 4**)
+* [HQC](https://www.pqc-hqc.org/) (KEM, alternate candidate, **round 4**)
+
+Isogeny-based:
+
+* [SIKE](https://sike.org/) (KEM, alternate candidate, **round 4**)
+    - Withdrawn, see for example [You could have broken SIDH](https://yx7.cc/blah/2022-08-22.html)
+
+### Selected algorithms 2022
+
+Lattice-based:
+
+* [Dilithium](https://pq-crystals.org/dilithium/) (signature, finalist, **selected**)
+    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/ipd)
+* [Falcon](https://falcon-sign.info/) (signature, finalist, **selected**)
+* [Kyber](https://pq-crystals.org/kyber) (KEM, finalist, **selected**)
+    - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/ipd)
+
+Hash-based:
+
+* [SPHINCS+](https://sphincs.org/) (signature, alternate candidate, **selected**)
+    - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/ipd)
+
+
+# NIST PQC Digital Signature Schemes
+
+This project coming after the selection of 4 signatures in 2022 aims to
+select algorithms "that are not based on structured lattices" and/or
+"that have short signatures and fast verification."
+
+* Homepage [PQC Digital Signature
+  Schemes](https://csrc.nist.gov/projects/pqc-dig-sig)
+
+* [Round 1 submissions](https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures)
+
 
 ## Other Algorithms
-
-* All [NIST Round 1 submissions](https://csrc.nist.gov/Projects/post-quantum-cryptography/Round-1-Submissions)
 
 Isogeny-based:
 
 * [CSIDH](https://csidh.isogeny.org/) (KEM)
 
 
-## Companies
+## IETF
 
-Respectable companies offering PQ solutions:
-
-* [AWS](https://docs.aws.amazon.com/kms/latest/developerguide/pqtls.html)
-* [IBM](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html)
-* [PQShield](https://pqshield.com/)
-
-
-## Standardization Efforts
-
-IETF:
+Internet Drafts and RFCs:
 
 * ID [Framework to Integrate Post-quantum Key Exchanges into Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/draft-tjhai-ipsecme-hybrid-qske-ikev2-04)
 * ID [Hybrid Post-Quantum Key Encapsulation Methods (PQ KEM) for Transport Layer Security 1.2 (TLS)](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid)
@@ -114,7 +135,15 @@ IETF:
 
 ## Misc
 
-* [PQC WIKI](https://pqc-wiki.fau.edu/w/Special:DatabaseHome)
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) (benchmarks)
-* [You could have broken SIDH](https://yx7.cc/blah/2022-08-22.html)
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
+* Quantum Doomsday Planning blog posts:
+    - [1/2: Risk assessment & quantum attacks](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
+    - [2/2: The post-quantum technology
+      landscape](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
+
+
+## Related awesome-pages
+
+* [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
+* [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
