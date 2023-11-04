@@ -8,42 +8,55 @@ We try to keep this page up to date, as some resources and URLs may become
 obsolete. If you notice such issues before us, please file PR or an
 Issue.
 
-
-## Initiatives
-
-* [NIST's Post-Quantum Cryptography
-  Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) ([Selected Algorithms 2022](https://csrc.nist.gov/projects/post-quantum-cryptography/selected-algorithms-2022) announcement)
-* [Open Quantum Safe](https://openquantumsafe.org/)
-* [US Department of Homeland Security roadmap](https://www.dhs.gov/quantum)
+"PQC" stands for post-quantum cryptography.
 
 
-## Learning Resources
+## Government Initiatives
+
+USA:
+
+* [NIST's PQC Project](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) ([Selected Algorithms 2022](https://csrc.nist.gov/projects/post-quantum-cryptography/selected-algorithms-2022) announcement)
+
+* [DHS PQC approach and roadmap](https://www.dhs.gov/quantum)
+* [NSA PQC FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
+* [NIST and NCCoE's Migration to PQC](https://www.nccoe.nist.gov/sites/default/files/2022-07/pqc-migration-project-description-final.pdf)
+
+France:
+
+* [ANSSI's views](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
+
+UK:
+
+* [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography) 
+
+## Research Resources
 
 * [IACR ePrint](https://www.google.com/search?q=site%3Aeprint.iacr.org+%22post-quantum%22)
 * [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
-* [NSA Post-Quantum Cryptography FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
-* [French ANSSI views](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
 
-SoK-type papers:
+Survey papers:
 
 * [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
 * [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
 
 
-## Software
+## Software Projects
 
 * [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
 * [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
-* [mupq/pqm4](https://github.com/mupq/pqm4)
+* [mupq/pqm4](https://github.com/mupq/pqm4)o
+* [Open Quantum Safe](https://openquantumsafe.org/)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
-* Implementations of...
-    - [Dilithium](https://pq-crystals.org/dilithium/software.shtml)
-    - [Kyber](https://pq-crystals.org/kyber/software.shtml)
-    - [SPHINCS+](https://sphincs.org/software.html)
+ 
+Implementations of...
+
+* [Dilithium](https://pq-crystals.org/dilithium/software.shtml)
+* [Kyber](https://pq-crystals.org/kyber/software.shtml)
+* [SPHINCS+](https://sphincs.org/software.html)
 
 
 ## NIST Post-Quantum Cryptography Standardization
