@@ -51,7 +51,8 @@ Survey papers:
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
- 
+* [PQ Code Package](https://github.com/pq-code-package) - Linux Alliance project that develops high-assurance software implementations of standards-track post-quantum cryptography algorithms.
+
 Implementations of...
 
 * [Dilithium](https://pq-crystals.org/dilithium/software.shtml)
