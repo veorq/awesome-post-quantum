@@ -51,6 +51,7 @@ Survey papers:
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
+* [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - Dilithium, Kyber, Sphincs+ in JS
  
 Implementations of...
 
