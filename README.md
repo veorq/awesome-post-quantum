@@ -46,7 +46,7 @@ Survey papers:
 * [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
-* [mupq/pqm4](https://github.com/mupq/pqm4)o
+* [mupq/pqm4](https://github.com/mupq/pqm4)
 * [Open Quantum Safe](https://openquantumsafe.org/)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
