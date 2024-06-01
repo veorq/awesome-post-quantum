@@ -161,12 +161,13 @@ Internet Drafts and RFCs:
 ## Misc
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) (benchmarks)
+* [PQCHacks: a gentle introduction to post-quantum cryptography (slides)](https://cr.yp.to/talks/2015.12.27/slides-dan+tanja-20151227-16x9.pdf)
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * Quantum Doomsday Planning blog posts:
     - [1/2: Risk assessment & quantum attacks](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
     - [2/2: The post-quantum technology
       landscape](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
-
+* [Tanja Lange's Youtube channel](https://www.youtube.com/@tanjalangeintrotocrypto3573)
 
 ## Related awesome-pages
 
