@@ -110,15 +110,15 @@ Isogeny-based:
 Lattice-based:
 
 * [Dilithium](https://pq-crystals.org/dilithium/) (signature)
-    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/ipd)
+    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/final)
 * [Falcon](https://falcon-sign.info/) (signature)
 * [Kyber](https://pq-crystals.org/kyber) (KEM)
-    - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/ipd)
+    - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/final)
 
 Hash-based:
 
 * [SPHINCS+](https://sphincs.org/) (signature)
-    - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/ipd)
+    - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/final)
 
 
 ## NIST PQC Digital Signature Schemes
