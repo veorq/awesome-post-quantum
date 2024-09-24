@@ -168,7 +168,6 @@ Internet Drafts and RFCs:
     - [1/2: Risk assessment & quantum attacks](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
     - [2/2: The post-quantum technology
       landscape](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
-* [Tanja Lange's Youtube channel](https://www.youtube.com/@tanjalangeintrotocrypto3573)
 
 ## Related awesome-pages
 
