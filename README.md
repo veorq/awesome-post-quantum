@@ -58,9 +58,10 @@ Survey papers:
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) (Dilithium, Kyber, Sphincs+ in JS)
 * [PQ Code Package](https://github.com/pq-code-package) (a Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms)
 
-Implementations of...
+Official, authors' implementations of...
 
 * [Dilithium](https://pq-crystals.org/dilithium/software.shtml)
+* [Falcon](https://falcon-sign.info/impl/falcon.h.html)
 * [Kyber](https://pq-crystals.org/kyber/software.shtml)
 * [SPHINCS+](https://sphincs.org/software.html)
 
@@ -71,6 +72,31 @@ Implementations of...
   Cryptography](https://csrc.nist.gov/Projects/post-quantum-cryptography)
 
 * All [Round 1 submissions](https://csrc.nist.gov/Projects/post-quantum-cryptography/Round-1-Submissions)
+
+### Selected algorithms 2022
+
+
+### Algorithms selected for standardization 
+
+#### Selected in 2022
+
+Lattice-based:
+
+* [Dilithium](https://pq-crystals.org/dilithium/) (signature)
+    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/final)
+* [Falcon](https://falcon-sign.info/) (signature)
+* [Kyber](https://pq-crystals.org/kyber) (KEM)
+    - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/final)
+
+Hash-based:
+
+* [SPHINCS+](https://sphincs.org/) (signature)
+    - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/final)
+
+
+#### Selected in 2025
+
+* [HQC](https://www.pqc-hqc.org/) (KEM)
 
 
 ## Round 3 submissions
@@ -98,34 +124,21 @@ ZKP-based:
 
 ### Round 4 submissions
 
+(Only listing those that were not selected for standardization)
+
 Code-based:
 
 * [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM)
 * [Classic McEliece](https://classic.mceliece.org/) (KEM)
-* [HQC](https://www.pqc-hqc.org/) (KEM)
 
 Isogeny-based:
 
 * [SIKE](https://sike.org/) (KEM)
     - Withdrawn, see for example [You could have broken SIDH](https://yx7.cc/blah/2022-08-22.html)
 
-### Selected algorithms 2022
-
-Lattice-based:
-
-* [Dilithium](https://pq-crystals.org/dilithium/) (signature)
-    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/final)
-* [Falcon](https://falcon-sign.info/) (signature)
-* [Kyber](https://pq-crystals.org/kyber) (KEM)
-    - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/final)
-
-Hash-based:
-
-* [SPHINCS+](https://sphincs.org/) (signature)
-    - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/final)
 
 
-## NIST PQC Digital Signature Schemes
+## NIST PQC Additional Digital Signature Schemes
 
 This project coming after the selection of 4 signatures in 2022 aims to
 select algorithms "that are not based on structured lattices" and/or
@@ -135,6 +148,8 @@ select algorithms "that are not based on structured lattices" and/or
   Schemes](https://csrc.nist.gov/projects/pqc-dig-sig)
 
 * [Round 1 submissions](https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures)
+
+* [Round 2 submissions](https://csrc.nist.gov/Projects/pqc-dig-sig/round-2-additional-signatures)
 
 
 ## Other Algorithms
