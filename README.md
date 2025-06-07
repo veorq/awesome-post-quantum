@@ -58,11 +58,12 @@ Survey papers:
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) (Dilithium, Kyber, Sphincs+ in JS)
 * [PQ Code Package](https://github.com/pq-code-package) (a Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms)
 
-Official, authors' implementations of...
+Official, authors' implementations of the NIST-selected algorithms:
 
 * [Dilithium](https://pq-crystals.org/dilithium/software.shtml)
 * [Falcon](https://falcon-sign.info/impl/falcon.h.html)
 * [Kyber](https://pq-crystals.org/kyber/software.shtml)
+* [HQC](https://pqc-hqc.org/implementation.html)
 * [SPHINCS+](https://sphincs.org/software.html)
 
 
