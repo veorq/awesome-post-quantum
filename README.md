@@ -21,6 +21,10 @@ USA:
 * [NSA PQC FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [NIST and NCCoE's Migration to PQC](https://www.nccoe.nist.gov/sites/default/files/2022-07/pqc-migration-project-description-final.pdf)
 
+South Korea:
+
+* [KpqC Competition](https://kpqc.or.kr/competition_02.html)
+
 France:
 
 * [ANSSI's views](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
@@ -128,7 +132,6 @@ ZKP-based:
 (Only listing those that were not selected for standardization)
 
 Code-based:
-
 * [BIKE](https://www.esat.kuleuven.be/cosic/pqcrypto/saber/) (KEM)
 * [Classic McEliece](https://classic.mceliece.org/) (KEM)
 
@@ -136,8 +139,6 @@ Isogeny-based:
 
 * [SIKE](https://sike.org/) (KEM)
     - Withdrawn, see for example [You could have broken SIDH](https://yx7.cc/blah/2022-08-22.html)
-
-
 
 ## NIST PQC Additional Digital Signature Schemes
 
@@ -153,6 +154,27 @@ select algorithms "that are not based on structured lattices" and/or
 * [Round 2 submissions](https://csrc.nist.gov/Projects/pqc-dig-sig/round-2-additional-signatures)
 
 
+## Other National Standards
+
+[South Korea](https://kpqc.or.kr/competition_02.html):
+
+* [AIMer](https://www.kpqc.or.kr/images/pdf/AIMer.pdf) (signature)
+* [HAETAE](https://kpqc.cryptolab.co.kr/haetae) (signature)
+* [NTRU+](https://www.kpqc.or.kr/images/pdf/NTRU+.pdf) (KEM)
+* [SMAUG-T](https://kpqc.cryptolab.co.kr/smaug-t) (KEM)
+
+
+## IETF Specifications
+
+Internet Drafts and RFCs:
+
+* ID [Framework to Integrate Post-quantum Key Exchanges into Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/draft-tjhai-ipsecme-hybrid-qske-ikev2-04)
+* ID [Hybrid Post-Quantum Key Encapsulation Methods (PQ KEM) for Transport Layer Security 1.2 (TLS)](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid)
+* ID [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
+* RFC 8391: [XMSS: eXtended Merkle Signature Scheme](https://datatracker.ietf.org/doc/html/rfc8391)
+* RFC 8554: [Leighton-Micali Hash-Based Signatures](https://datatracker.ietf.org/doc/html/rfc8554)
+
+
 ## Other Algorithms
 
 Hash-based:
@@ -164,15 +186,6 @@ Isogeny-based:
 * [CSIDH](https://csidh.isogeny.org/) (KEM)
 
 
-## IETF
-
-Internet Drafts and RFCs:
-
-* ID [Framework to Integrate Post-quantum Key Exchanges into Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/draft-tjhai-ipsecme-hybrid-qske-ikev2-04)
-* ID [Hybrid Post-Quantum Key Encapsulation Methods (PQ KEM) for Transport Layer Security 1.2 (TLS)](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid)
-* ID [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
-* RFC 8391: [XMSS: eXtended Merkle Signature Scheme](https://datatracker.ietf.org/doc/html/rfc8391)
-* RFC 8554: [Leighton-Micali Hash-Based Signatures](https://datatracker.ietf.org/doc/html/rfc8554)
 
 
 ## Misc
