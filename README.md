@@ -153,6 +153,7 @@ select algorithms "that are not based on structured lattices" and/or
 
 * [Round 2 submissions](https://csrc.nist.gov/Projects/pqc-dig-sig/round-2-additional-signatures)
 
+* [Comparison tool](https://pqshield.github.io/nist-sigs-zoo/)
 
 ## Other National Standards
 
