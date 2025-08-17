@@ -199,6 +199,7 @@ Isogeny-based:
     - [2/2: The post-quantum technology
       landscape](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
 * [PQC Cheat Sheet](https://github.com/marioschiener/PQC-Cheat-Sheet)
+* ["Fancy" Cryptography](https://github.com/fancy-cryptography/fancy-cryptography)
 
 ## Related awesome-pages
 
