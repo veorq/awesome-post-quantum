@@ -31,7 +31,16 @@ France:
 
 UK:
 
-* [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography) 
+* [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography)
+
+Czech Republic:
+
+* [Minimum Requirements for Cryptographic Algorithms](https://nukib.gov.cz/download/publications_en/Minimum%20Requirements%20for%20Cryptographic%20Algorithms.pdf)
+* [Quantum Threat and Quantum Resistant Cryptography](https://nukib.gov.cz/download/publications_en/Annex%20to%20the%20document_Minimum%20Requirements%20for%20Cryptographic%20Algorithms.pdf)
+
+Post Quantum Government Initiatives by Country and Region (from GSMA):
+
+* [Summary of Guidelines provided by the Countries](https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region)
 
 ## Research Resources
 
