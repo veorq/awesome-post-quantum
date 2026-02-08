@@ -15,6 +15,7 @@ If you notice errors or obsolete content, please file PR or an Issue.
 * [DHS PQC approach and roadmap](https://www.dhs.gov/quantum)
 * [NSA PQC FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [NIST and NCCoE's Migration to PQC](https://www.nccoe.nist.gov/sites/default/files/2022-07/pqc-migration-project-description-final.pdf)
+* [NIST Migration to Post-Quantum Cryptography](https://www.nccoe.nist.gov/crypto-agility-considerations-migrating-post-quantum-cryptographic-algorithms)
 
 ### Europe
 
@@ -46,16 +47,17 @@ If you notice errors or obsolete content, please file PR or an Issue.
 
 * [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography)
 
+
 ### Asia-Pacific
 
 **Australia:**
 
-* [Australian Cyber Security Centre (ACSC) Quantum Security Resources](https://www.cyber.gov.au/acsc)
-* [Australian Signals Directorate (ASD) Quantum Computing Guidance](https://www.cyber.gov.au/)
+* [Australian Signals Directorate (ASD): Planning for post-quantum cryptography
+](https://www.cyber.gov.au/business-government/secure-design/quantum/planning-for-post-quantum-cryptography)
 
 **China:**
 
-* TBD
+* [Next-Generation Commercial Cryptographic Algorithms Program (NGCC)](https://www.niccs.org.cn/en/)
 
 **Japan:**
 
@@ -118,7 +120,8 @@ If you notice errors or obsolete content, please file PR or an Issue.
 
 * [Microsoft PQC program](https://www.microsoft.com/en-us/research/project/post-quantum-cryptography/)
 * [Azure Quantum Cryptography](https://azure.microsoft.com/en-us/products/quantum/)
-* [Reference implementations](https://github.com/Microsoft/PQCrypto-LWEKE)
+* [LWEKE Reference implementations](https://github.com/Microsoft/PQCrypto-LWEKE)
+* [Post-Quantum TLS](https://www.microsoft.com/en-us/research/project/post-quantum-tls/)
 
 **Signal:**
 
@@ -174,15 +177,18 @@ If you notice errors or obsolete content, please file PR or an Issue.
 Lattice-based:
 
 * [Kyber](https://pq-crystals.org/kyber) (KEM)
-    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard](https://csrc.nist.gov/pubs/fips/203/final)
+    - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism
+      Standard (ML-KEM)](https://csrc.nist.gov/pubs/fips/203/final)
 * [Dilithium](https://pq-crystals.org/dilithium/) (signature)
-    - [FIPS 204: Module-Lattice-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/204/final)
+    - [FIPS 204: Module-Lattice-Based Digital Signature Standard
+      (ML-DSA)](https://csrc.nist.gov/pubs/fips/204/final)
 * [Falcon](https://falcon-sign.info/) (signature)
 
 Hash-based:
 
 * [SPHINCS+](https://sphincs.org/) (signature)
-    - [FIPS 205: Stateless Hash-Based Digital Signature Standard](https://csrc.nist.gov/pubs/fips/205/final)
+    - [FIPS 205: Stateless Hash-Based Digital Signature Standard
+      (SLH-DSA)](https://csrc.nist.gov/pubs/fips/205/final)
 
 #### Selected in 2025
 
@@ -190,11 +196,12 @@ Code-based:
 
 * [HQC](https://www.pqc-hqc.org/) (KEM)
 
+
 ### Historical context: earlier round submissions
 
 #### Round 3 submissions
 
-(Only listing those that were not selected for standardization or round 4)
+(Only listing those that were not selected for standardization or round 4.)
 
 Lattice-based:
 
@@ -214,7 +221,7 @@ ZKP-based:
 
 #### Round 4 submissions
 
-(Only listing those that were not selected for standardization)
+(Only listing those that were not selected for standardization.)
 
 Code-based:
 
@@ -239,9 +246,6 @@ This project, launched after the selection of 4 signature schemes in 2022, aims 
 
 ## Other national standards
 
-### China
-
-* [GB/T 38635-2020](https://www.chinesestandard.net/PDF/English.aspx/GBT38635-2020) - Information security technology—Digital signature algorithm based on SM9 identification cryptographic algorithm
 
 ### South Korea
 
@@ -286,7 +290,6 @@ This list includes notable implementations on a best-effort basis. Inclusion doe
 
 * [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
 * [wolfSSL](https://www.wolfssl.com/post-quantum-cryptography/)
-* [OpenSSL PQC Provider](https://github.com/openssl/openssl) (via OQS)
 * [Post-Quantum TLS](https://www.pq-tls.org/)
 
 ### Embedded/constrained devices
@@ -302,11 +305,6 @@ Official, authors' implementations of the NIST-selected algorithms:
 * [Falcon](https://falcon-sign.info/impl/falcon.h.html)
 * [SPHINCS+](https://sphincs.org/software.html)
 * [HQC](https://pqc-hqc.org/implementation.html)
-
-### Deprecated/historical implementations
-
-* [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
-* [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH) - **Note: SIDH/SIKE was broken in 2022. Use for historical reference only.**
 
 
 ## IETF specifications
@@ -345,24 +343,10 @@ MQ-based (Multivariate Quadratic):
 ### Benchmarking & performance
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
-* [PQShield NIST Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/) - Interactive comparison tool
-* [PQC Performance Tracker](https://openquantumsafe.org/benchmarking/)
 
 ### Deployment & migration guidance
 
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
-* [PQC Cheat Sheet](https://github.com/marioschiener/PQC-Cheat-Sheet)
-* [NIST Migration to Post-Quantum Cryptography](https://www.nccoe.nist.gov/crypto-agility-considerations-migrating-post-quantum-cryptographic-algorithms)
-* Quantum Doomsday Planning blog posts:
-    - [1/2: Risk assessment & quantum attacks](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
-    - [2/2: The post-quantum technology landscape](https://www.taurushq.com/blog/quantum-doomsday-planning-2-2-the-post-quantum-technology-landscape/)
-
-### Educational resources
-
-* [PQCHacks: a gentle introduction to post-quantum cryptography (slides)](https://cr.yp.to/talks/2015.12.27/slides-dan+tanja-20151227-16x9.pdf)
-* ["Fancy" Cryptography](https://github.com/fancy-cryptography/fancy-cryptography)
-* [Introduction to post-quantum cryptography](https://www.youtube.com/watch?v=wGHRg96KJN0) by Daniel J. Bernstein
-* [NIST PQC Standardization: Process and Lessons Learned](https://csrc.nist.gov/Presentations/2023/nist-post-quantum-cryptography-standardization)
 
 
 ## Related resources
@@ -370,4 +354,5 @@ MQ-based (Multivariate Quadratic):
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
 * [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
+* [fancy-cryptography](https://github.com/fancy-cryptography/fancy-cryptography)
 
