@@ -71,6 +71,8 @@ Survey papers:
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) (Dilithium, Kyber, Sphincs+ in JS)
 * [PQ Code Package](https://github.com/pq-code-package) (a Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms)
 
+* [Asqav](https://github.com/jagmarques/asqav-sdk) (ML-DSA-44/65/87 signatures for AI agent governance)
+
 Official, authors' implementations of the NIST-selected algorithms:
 
 * [Dilithium](https://pq-crystals.org/dilithium/software.shtml)
