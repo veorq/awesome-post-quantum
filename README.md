@@ -70,7 +70,7 @@ Survey papers:
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) (Dilithium, Kyber, Sphincs+ in JS)
 * [PQ Code Package](https://github.com/pq-code-package) (a Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms)
-* [pqcscan - Post-Quantum Cryptography Scanner](https://github.com/anvilsecure/pqcscan)
+* [anvilsecure/pqcscan](https://github.com/anvilsecure/pqcscan)
 
 Official, authors' implementations of the NIST-selected algorithms:
 
