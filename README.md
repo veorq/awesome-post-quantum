@@ -60,6 +60,7 @@ Survey papers:
 ## Software Projects
 
 * [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
+* [ConnectingApps/kemforge](https://github.com/ConnectingApps/kemforge) (Cross-platform curl alternative with native ML-KEM support and handshake diagnostics).
 * [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
 * [Microsoft/PQCrypto-SIDH](https://github.com/Microsoft/PQCrypto-SIDH)
