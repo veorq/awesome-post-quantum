@@ -243,9 +243,9 @@ Rust:
 
 ## Other resources
 
- [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
+* [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [pqcrypto.org](https://pqcrypto.org/)
-* [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org
+* [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
