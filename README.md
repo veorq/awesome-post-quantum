@@ -17,20 +17,20 @@ Standardization projects:
 
 KEMs (encryption, key agreement):
 
-* [Kyber](https://pq-crystals.org/kyber)  (selected in 2022)
+* [Kyber](https://pq-crystals.org/kyber) - Selected in 2022
     - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM)](https://csrc.nist.gov/pubs/fips/203/final)
     -  [Kyber official software](https://pq-crystals.org/kyber/software.shtml)
-* [HQC](https://www.pqc-hqc.org/) (selected in 2025)
+* [HQC](https://www.pqc-hqc.org/) - Selected in 2025
   - [HQC official software](https://pqc-hqc.org/implementation.html)
 
 Signature schemes:
 
-* [Dilithium](https://pq-crystals.org/dilithium/) (selected in 2022)
+* [Dilithium](https://pq-crystals.org/dilithium/) - Selected in 2022
     - [FIPS 204: Module-Lattice-Based Digital Signature Standard (ML-DSA)](https://csrc.nist.gov/pubs/fips/204/final)
     - [Dilithium official software](https://pq-crystals.org/dilithium/software.shtml)
-* [Falcon](https://falcon-sign.info/) (selected in 2022)
+* [Falcon](https://falcon-sign.info/) - Selected in 2022
   - [Falcon official software](https://falcon-sign.info/impl/falcon.h.html)
-* [SPHINCS+](https://sphincs.org/) (selected in 2022)
+* [SPHINCS+](https://sphincs.org/) - Selected in 2022
     - [FIPS 205: Stateless Hash-Based Digital Signature Standard (SLH-DSA)](https://csrc.nist.gov/pubs/fips/205/final)
   -  [SPHINCS+ official software](https://sphincs.org/software.html)
 
@@ -96,10 +96,10 @@ South Korea:
 
 * [KpqC Competitions and Algorithms](https://kpqc.or.kr/)
 * Standardized algorithms:
-  * [AIMer](https://www.kpqc.or.kr/images/pdf/AIMer.pdf) (signature)
-  * [HAETAE](https://kpqc.cryptolab.co.kr/haetae) (signature)
-  * [NTRU+](https://www.kpqc.or.kr/images/pdf/NTRU+.pdf) (KEM)
-  * [SMAUG-T](https://kpqc.cryptolab.co.kr/smaug-t) (KEM)
+  * [NTRU+](https://www.kpqc.or.kr/images/pdf/NTRU+.pdf) - KEM
+  * [SMAUG-T](https://kpqc.cryptolab.co.kr/smaug-t) - KEM
+  * [AIMer](https://www.kpqc.or.kr/images/pdf/AIMer.pdf) - Signature
+  * [HAETAE](https://kpqc.cryptolab.co.kr/haetae) - Signature
 
 United Kingdom:
 
@@ -135,7 +135,7 @@ RFCs:
 
 Apple:
 
-* [iMessage with PQ3 protocol](https://security.apple.com/blog/imessage-pq3/) - Post-quantum cryptographic protocol for iMessage
+* [iMessage with PQ3 protocol](https://security.apple.com/blog/imessage-pq3/
 * [Security research blog on PQC](https://security.apple.com/)
 
 AWS:
@@ -241,9 +241,9 @@ Rust:
 
 ## Other resources
 
-* [pqcrypto.org](https://pqcrypto.org/) (incl. conference series)
-* [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
-* [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) - relevant for understanding threat models
+ [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
+* [pqcrypto.org](https://pqcrypto.org/)
+* [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
