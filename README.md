@@ -106,7 +106,15 @@ United Kingdom:
 * [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography)
 
 
-## IETF efforts and standards
+## IETF standards and proposals
+
+RFCs:
+
+* RFC 8391: [XMSS: eXtended Merkle Signature Scheme](https://datatracker.ietf.org/doc/html/rfc8391)
+* RFC 8554: [Leighton-Micali Hash-Based Signatures](https://datatracker.ietf.org/doc/html/rfc8554)
+* RFC 9881: [Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://datatracker.ietf.org/doc/html/rfc9881)
+* RFC 9935: [Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) ](https://datatracker.ietf.org/doc/rfc9935/)
+
 
 Internet-Drafts:
 
@@ -123,12 +131,6 @@ Internet-Drafts:
 * ID [Downgrade Prevention for the Internet Key Exchange Protocol Version 2 (IKEv2) ](https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-downgrade-prevention/)
 * ID [Post-quantum Key Exchange with ML-KEM in the Internet Key Exchange Protocol Version 2 (IKEv2) ](https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/)
 
-
-RFCs:
-
-* RFC 8391: [XMSS: eXtended Merkle Signature Scheme](https://datatracker.ietf.org/doc/html/rfc8391)
-* RFC 8554: [Leighton-Micali Hash-Based Signatures](https://datatracker.ietf.org/doc/html/rfc8554)
-* RFC 9881: [Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://datatracker.ietf.org/doc/html/rfc9881)
 
 
 ## From tech companies
