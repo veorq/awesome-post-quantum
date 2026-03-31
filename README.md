@@ -166,6 +166,8 @@ Google:
 * [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
 * [Post-quantum cryptography in Chrome](https://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html)
 * [FIDO2/WebAuthn post-quantum security keys](https://security.googleblog.com/)
+* [Announcing quantum-safe digital signatures in Cloud KMS](https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms) - Implementation details for ML-DSA and SLH-DSA in cloud environments.
+* [Google Cloud Post-Quantum Cryptography (PQC)](https://cloud.google.com/security/resources/post-quantum-cryptography) - Organizational PQC strategy, architecture, and hybrid cryptographic deployments.
 
 IBM:
 
@@ -247,6 +249,8 @@ Rust:
 * [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
 * [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) by Daniel J. Bernstein, Johannes Buchmann and Erik Dahmen
 * [Post-quantum cryptography—dealing with the fallout of physics success](https://eprint.iacr.org/2017/314) by Daniel J. Bernstein and Tanja Lange
+* [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf) by Google Quantum AI
+* [Transitioning organizations to post-quantum cryptography](https://www.nature.com/articles/s41586-022-04623-2) by Google researchers (Nature)
 * [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 
 
