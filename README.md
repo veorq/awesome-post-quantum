@@ -212,6 +212,7 @@ Go:
 JavaScript/TypeScript:
 
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - Dilithium, Kyber, SPHINCS+ in JavaScript
+* [psavelis/enterprise-blockchain](https://github.com/psavelis/enterprise-blockchain) - Enterprise blockchain reference implementation
 
 Rust:
 
