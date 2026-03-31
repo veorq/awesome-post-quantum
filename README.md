@@ -71,6 +71,10 @@ EU:
 * [ENISA Post-Quantum Cryptography Reports](https://www.enisa.europa.eu/topics/cryptography)
 * [ETSI Quantum-Safe Cryptography Specification Group](https://www.etsi.org/committee/1430-qsc)
 
+India:
+
+* [Implementation of Quantum Safe Ecosystem in India](https://dst.gov.in/sites/default/files/Report_TaskForce_PQMigration_4Feb26%20%28v1%29.pdf)
+
 Japan:
 
 * [CRYPTREC PQC Evaluation](https://www.cryptrec.go.jp/en/)
@@ -167,6 +171,11 @@ IBM:
 * [Quantum Safe Roadmap](https://www.ibm.com/quantum/quantum-safe/roadmap)
 * [Cryptographic Bill of Materials (CBOM)](https://www.ibm.com/quantum/quantum-safe/cbom)
 
+Meta:
+
+
+* [Post-quantum readiness for TLS at Meta](https://engineering.fb.com/2024/05/22/security/post-quantum-readiness-tls-pqr-meta/)
+
 Microsoft:
 
 * [Microsoft PQC program](https://www.microsoft.com/en-us/research/project/post-quantum-cryptography/)
@@ -242,7 +251,6 @@ Rust:
 ## Other resources
 
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
-* [pqcrypto.org](https://pqcrypto.org/)
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
