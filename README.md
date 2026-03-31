@@ -227,8 +227,7 @@ Rust:
 * [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
 * [BoringSSL](https://boringssl.googlesource.com/boringssl)
 * [OpenSSL](https://www.openssl.org/)
-* [Post-Quantum TLS](https://www.pq-tls.org/)
-* [wolfSSL](https://www.wolfssl.com/post-quantum-cryptography/)
+* [wolfSSL](https://github.com/wolfSSL/wolfssl)
 
 ## Research surveys
 
