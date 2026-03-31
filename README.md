@@ -190,7 +190,6 @@ Trail of Bits:
 ## PQC software
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
-
 * [CIRCL: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
 
 ### General-purpose libraries
