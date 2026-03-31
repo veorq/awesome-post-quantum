@@ -137,7 +137,7 @@ Internet-Drafts:
 
 Apple:
 
-* [iMessage with PQ3 protocol](https://security.apple.com/blog/imessage-pq3/
+* [iMessage with PQ3 protocol](https://security.apple.com/blog/imessage-pq3/)
 * [Security research blog on PQC](https://security.apple.com/)
 
 AWS:
