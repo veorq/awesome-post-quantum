@@ -207,7 +207,7 @@ Trail of Bits:
 
 Go:
 
-* [Go crypto/ml-kem](https://pkg.go.dev/golang.org/x/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
+* [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
 
 JavaScript/TypeScript:
 
