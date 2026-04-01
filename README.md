@@ -225,7 +225,7 @@ Go:
 
 JavaScript/TypeScript:
 
-* [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - Dilithium, Kyber, SPHINCS+ in JavaScript
+* [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon & Hybrids in JavaScript
 
 Rust:
 
