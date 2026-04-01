@@ -231,11 +231,20 @@ JavaScript/TypeScript:
 
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon & Hybrids in JavaScript
 
+.NET:
+
+* [Post-Quantum Cryptography in .NET](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/)
+
 Rust:
 
-* [RustCrypto/KEMs](https://github.com/RustCrypto/KEMs) - ML-KEM (Kyber) and Classic McEliece
-* [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - ML-DSA (Dilithium), Falcon, SPHINCS+
+* [RustCrypto/KEMs](https://github.com/RustCrypto/KEMs) - ML-KEM and Classic McEliece
+* [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - ML-DSA, Falcon, SPHINCS+
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
+
+Zig:
+
+* [std.crypto](https://www.mintlify.com/ziglang/zig/api/crypto) -
+  ML-DSA and ML-KEM in the standard library
 
 ### Embedded/constrained devices
 
