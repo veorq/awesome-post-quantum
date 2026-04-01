@@ -219,6 +219,10 @@ Trail of Bits:
 
 ### Language-specific implementations
 
+C:
+
+* [algorand/falcon](https://github.com/algorand/falcon): Deterministic FALCON implementation
+
 Go:
 
 * [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
