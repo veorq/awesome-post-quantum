@@ -190,6 +190,10 @@ Signal:
 * [PQXDH: Post-Quantum Extended Diffie-Hellman](https://signal.org/docs/specifications/pqxdh/)
 * [Signal's approach to post-quantum encryption](https://signal.org/blog/pqxdh/)
 
+Tencent:
+
+* [PQC InfoHub](https://pqc.tencent.com/en)
+
 Trail of Bits:
 
 * [Quantifying post-quantum readiness](https://blog.trailofbits.com/2024/01/25/quantifying-post-quantum-readiness/)
