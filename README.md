@@ -250,11 +250,12 @@ Zig:
 
 * [mupq/pqm4](https://github.com/mupq/pqm4)
 
-### TLS implementations
+### TLS implementations with PQC support
 
-* [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
+* [aws/s2n-tls](https://github.com/aws/s2n-tls/)
 * [BoringSSL](https://boringssl.googlesource.com/boringssl)
 * [OpenSSL](https://www.openssl.org/)
+* [Go crypto/tls](https://github.com/golang/go/tree/master/src/crypto/tls)
 * [wolfSSL](https://github.com/wolfSSL/wolfssl)
 
 ## Research surveys
