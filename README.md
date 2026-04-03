@@ -206,36 +206,35 @@ Trail of Bits:
 ## PQC software
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
-* [CIRCL: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
 
 ### General-purpose libraries with PQC support
 
-* [AWS-LC](https://github.com/aws/aws-lc/blob/main/crypto/fipsmodule/PQREADME.md) - C, Rust bindings in [aws-lc-rs](https://github.com/aws/aws-lc-rs)
+Des not include TLS implementations listed later:
+
+* [AWS-LC](https://github.com/aws/aws-lc/blob/main/crypto/fipsmodule/PQREADME.md) - Rust bindings in [aws-lc-rs](https://github.com/aws/aws-lc-rs)
 * [Bouncy Castle](https://www.bouncycastle.org/) - Java/C# 
 * [CIRCL (Cloudflare Interoperable, Reusable Cryptographic Library)](https://github.com/cloudflare/circl) - Go
-* [Google Tink](https://github.com/google/tink) - Multi-language 
-* [libcrux](https://crates.io/crates/libcrux) - Rust, formally verified code
+* [Google Tink](https://github.com/tink-crypto) - Multi-language (C++, Go, Java, Obj-C, Python) 
 
-### PQC-focused libraries
 
-* [Open Quantum Safe](https://openquantumsafe.org/)
-* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
-* [PQClean/PQClean](https://github.com/PQClean/PQClean)
-* [PQ Code Package](https://github.com/pq-code-package) - A Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms
 
-### Language-specific implementations
+### PQC libraries and language-specific software
 
 C:
 
-* [algorand/falcon](https://github.com/algorand/falcon): Deterministic FALCON implementation
+* [liboqs](https://github.com/open-quantum-safe/liboqs) - From [Open Quantum Safe](https://openquantumsafe.org/)
+* [PQ Code Package](https://github.com/pq-code-package) - A Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms (
+* [mupq/pqm4](https://github.com/mupq/pqm4) - PQC library for the ARM Cortex-M4
+* [algorand/falcon](https://github.com/algorand/falcon) - Deterministic FALCON implementation
 
 Go:
 
 * [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
 
-JavaScript/TypeScript:
+JavaScript:
 
-* [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon & Hybrids in JavaScript
+* [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon, and hybrids 
+
 
 .NET:
 
@@ -243,18 +242,17 @@ JavaScript/TypeScript:
 
 Rust:
 
-* [RustCrypto/KEMs](https://github.com/RustCrypto/KEMs) - ML-KEM and Classic McEliece
-* [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - ML-DSA, Falcon, SPHINCS+
-* [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
+* [RustCrypto/KEMs](https://github.com/RustCrypto/KEMs) - ML-KEM, FrodoKem
+* [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - ML-DSA, SLH-DSA, LMS
+* [libcrux](https://crates.io/crates/libcrux) - Formally verified code
 
 Zig:
 
 * [std.crypto](https://www.mintlify.com/ziglang/zig/api/crypto) -
   ML-DSA and ML-KEM in the standard library
 
-### Embedded/constrained devices
 
-* [mupq/pqm4](https://github.com/mupq/pqm4)
+
 
 ### TLS implementations with PQC support
 
