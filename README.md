@@ -46,6 +46,7 @@ Signature schemes:
 
 * [GSMA: Post Quantum Government Initiatives by Country and Region](https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region)
 * [ISO/IEC JTC 1/SC 27 Working Group on PQC Standardization](https://www.iso.org/committee/45306.html)
+* [Quantum Computing Cybersecurity Preparedness Act](https://www.congress.gov/bill/117th-congress/house-bill/7535/text)
 
 Australia:
 
@@ -207,15 +208,20 @@ Trail of Bits:
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [CIRCL: Cloudflare Interoperable Reusable Cryptographic Library](https://github.com/cloudflare/circl)
 
-### General-purpose libraries
+### General-purpose libraries with PQC support
+
+* [AWS-LC](https://github.com/aws/aws-lc/blob/main/crypto/fipsmodule/PQREADME.md) - C, Rust bindings in [aws-lc-rs](https://github.com/aws/aws-lc-rs)
+* [Bouncy Castle](https://www.bouncycastle.org/) - Java/C# 
+* [CIRCL (Cloudflare Interoperable, Reusable Cryptographic Library)](https://github.com/cloudflare/circl) - Go
+* [Google Tink](https://github.com/google/tink) - Multi-language 
+* [libcrux](https://crates.io/crates/libcrux) - Rust, formally verified code
+
+### PQC-focused libraries
 
 * [Open Quantum Safe](https://openquantumsafe.org/)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
-* [PQ Code Package](https://github.com/pq-code-package) (a Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms)
-* [Bouncy Castle](https://www.bouncycastle.org/) - Java/C# crypto library with PQC support
-* [Google Tink](https://github.com/google/tink) - Multi-language crypto library with PQC support
-* [CIRCL (Cloudflare Interoperable, Reusable Cryptographic Library)](https://github.com/cloudflare/circl) - ML-DSA and ML-KEM
+* [PQ Code Package](https://github.com/pq-code-package) - A Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms
 
 ### Language-specific implementations
 
