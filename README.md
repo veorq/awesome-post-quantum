@@ -91,7 +91,7 @@ Germany:
 
 Netherlands:
 
-* [AIVD/MIVD Quantum Threat Assessments](https://english.aivd.nl/)
+* [AIVD's PQC Migration Handbook](https://english.aivd.nl/documents/2024/12/3/the-pqc-migration-handbook)
 
 Singapore:
 
