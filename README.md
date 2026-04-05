@@ -200,10 +200,6 @@ Tencent:
 
 * [PQC InfoHub](https://pqc.tencent.com/en)
 
-Trail of Bits:
-
-* [Quantifying post-quantum readiness](https://blog.trailofbits.com/2024/01/25/quantifying-post-quantum-readiness/)
-* [The treachery of post-quantum signatures](https://blog.trailofbits.com/2023/03/01/the-treachery-of-post-quantum-signatures/)
 
 
 
