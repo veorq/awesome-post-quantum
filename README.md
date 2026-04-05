@@ -17,7 +17,7 @@ Standardization projects:
 
 KEMs (encryption, key agreement):
 
-* [Kyber](https://pq-crystals.org/kyber) - Selected in 2022
+* [ML-KEM (Kyber)](https://pq-crystals.org/kyber) - Selected in 2022
     - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM)](https://csrc.nist.gov/pubs/fips/203/final)
     -  [Kyber official software](https://pq-crystals.org/kyber/software.shtml)
 * [HQC](https://www.pqc-hqc.org/) - Selected in 2025
@@ -25,14 +25,15 @@ KEMs (encryption, key agreement):
 
 Signature schemes:
 
-* [Dilithium](https://pq-crystals.org/dilithium/) - Selected in 2022
+* [ML-DSA (Dilithium)](https://pq-crystals.org/dilithium/) - Selected in 2022
     - [FIPS 204: Module-Lattice-Based Digital Signature Standard (ML-DSA)](https://csrc.nist.gov/pubs/fips/204/final)
     - [Dilithium official software](https://pq-crystals.org/dilithium/software.shtml)
-* [Falcon](https://falcon-sign.info/) - Selected in 2022
-  - [Falcon official software](https://falcon-sign.info/impl/falcon.h.html)
-* [SPHINCS+](https://sphincs.org/) - Selected in 2022
+* [FN-DSA (Falcon)](https://falcon-sign.info/) - Selected in 2022
+    - Presentation [Falcon, Towards FN-DSA](https://csrc.nist.gov/csrc/media/Presentations/2024/falcon/images-media/prest-falcon-pqc2024.pdf)
+    - [Falcon official software](https://falcon-sign.info/impl/falcon.h.html)
+* [SLH-DSA (SPHINCS+)](https://sphincs.org/) - Selected in 2022
     - [FIPS 205: Stateless Hash-Based Digital Signature Standard (SLH-DSA)](https://csrc.nist.gov/pubs/fips/205/final)
-  -  [SPHINCS+ official software](https://sphincs.org/software.html)
+    -  [SPHINCS+ official software](https://sphincs.org/software.html)
 
 ### Migration guidelines
 
@@ -137,6 +138,7 @@ Internet-Drafts:
 * I-D [Post-Quantum and Post-Quantum/Traditional Hybrid Algorithms for HPKE](https://datatracker.ietf.org/doc/draft-ietf-hpke-pq/)
 * I-D [Downgrade Prevention for the Internet Key Exchange Protocol Version 2 (IKEv2) ](https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-downgrade-prevention/)
 * I-D [Post-quantum Key Exchange with ML-KEM in the Internet Key Exchange Protocol Version 2 (IKEv2) ](https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/)
+* I-D [Use of the FN-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.ietf.org/archive/id/draft-turner-lamps-cms-fn-dsa-00.html)
 
 
 
