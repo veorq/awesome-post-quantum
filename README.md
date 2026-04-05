@@ -80,7 +80,7 @@ India:
 
 Japan:
 
-* [CRYPTREC PQC Evaluation](https://www.cryptrec.go.jp/en/)
+* [Guidelines](https://www.cryptrec.go.jp/report/cryptrec-gl-2007-2024.pdf) (including PQC) by [CRYPTREC](https://www.cryptrec.go.jp/en/)
 
 France:
 
