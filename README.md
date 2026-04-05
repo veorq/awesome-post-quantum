@@ -103,10 +103,10 @@ South Korea:
 
 * [KpqC Competitions and Algorithms](https://kpqc.or.kr/)
 * Standardized algorithms:
-  * [NTRU+](https://www.kpqc.or.kr/images/pdf/NTRU+.pdf) - KEM
-  * [SMAUG-T](https://kpqc.cryptolab.co.kr/smaug-t) - KEM
-  * [AIMer](https://www.kpqc.or.kr/images/pdf/AIMer.pdf) - Signature
-  * [HAETAE](https://kpqc.cryptolab.co.kr/haetae) - Signature
+  * [NTRU+](https://www.kpqc.or.kr/images/pdf/NTRU+.pdf) - KEM, lattice-based
+  * [SMAUG-T](https://kpqc.cryptolab.co.kr/smaug-t) - KEM, lattice-based
+  * [AIMer](https://www.kpqc.or.kr/images/pdf/AIMer.pdf) - Signature, MPC-in-the-head
+  * [HAETAE](https://kpqc.cryptolab.co.kr/haetae) - Signature, lattice-based
 
 United Kingdom:
 
