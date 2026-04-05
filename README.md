@@ -210,9 +210,10 @@ Tencent:
 
 ### General-purpose libraries with PQC support
 
-Des not include TLS implementations listed later:
+Does not include TLS implementations listed later:
 
 * [AWS-LC](https://github.com/aws/aws-lc/blob/main/crypto/fipsmodule/PQREADME.md) - Rust bindings in [aws-lc-rs](https://github.com/aws/aws-lc-rs)
+* [Botan](https://github.com/randombit/botan) - C++
 * [Bouncy Castle](https://www.bouncycastle.org/) - Java/C# 
 * [CIRCL (Cloudflare Interoperable, Reusable Cryptographic Library)](https://github.com/cloudflare/circl) - Go
 * [Google Tink](https://github.com/tink-crypto) - Multi-language (C++, Go, Java, Obj-C, Python) 
