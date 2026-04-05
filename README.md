@@ -17,22 +17,22 @@ Standardization projects:
 
 KEMs (encryption, key agreement):
 
-* [ML-KEM (Kyber)](https://pq-crystals.org/kyber) - Selected in 2022
+* [ML-KEM (Kyber)](https://pq-crystals.org/kyber) - Selected in 2022, lattice-based
     - [FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM)](https://csrc.nist.gov/pubs/fips/203/final)
     -  [Kyber official software](https://pq-crystals.org/kyber/software.shtml)
-* [HQC](https://www.pqc-hqc.org/) - Selected in 2025
+* [HQC](https://www.pqc-hqc.org/) - Selected in 2025, code-based
   - [HQC official software](https://pqc-hqc.org/implementation.html)
 
 Signature schemes:
 
-* [ML-DSA (Dilithium)](https://pq-crystals.org/dilithium/) - Selected in 2022
+* [ML-DSA (Dilithium)](https://pq-crystals.org/dilithium/) - Selected in 2022, lattice-based
     - [FIPS 204: Module-Lattice-Based Digital Signature Standard (ML-DSA)](https://csrc.nist.gov/pubs/fips/204/final)
     - [Dilithium official software](https://pq-crystals.org/dilithium/software.shtml)
-* [FN-DSA (Falcon)](https://falcon-sign.info/) - Selected in 2022
+* [FN-DSA (Falcon)](https://falcon-sign.info/) - Selected in 2022, lattice-based
     - Presentation [FIPS 2026 Status Update](https://csrc.nist.gov/csrc/media/presentations/2025/fips-206-fn-dsa-(falcon)/images-media/fips_206-perlner_2.1.pdf)
     - Presentation [Falcon, Towards FN-DSA](https://csrc.nist.gov/csrc/media/Presentations/2024/falcon/images-media/prest-falcon-pqc2024.pdf)
     - [Falcon official software](https://falcon-sign.info/impl/falcon.h.html)
-* [SLH-DSA (SPHINCS+)](https://sphincs.org/) - Selected in 2022
+* [SLH-DSA (SPHINCS+)](https://sphincs.org/) - Selected in 2022, hash-based
     - [FIPS 205: Stateless Hash-Based Digital Signature Standard (SLH-DSA)](https://csrc.nist.gov/pubs/fips/205/final)
     -  [SPHINCS+ official software](https://sphincs.org/software.html)
 
