@@ -97,7 +97,7 @@ Netherlands:
 
 Singapore:
 
-* [CSA Post-Quantum Cryptography Guidelines](https://www.csa.gov.sg/)
+* [CSA Quantum-Safe Hanbook and Quantum Readiness Index](https://www.csa.gov.sg/resources/publications/quantum-safe-handbook-and-quantum-readiness-index/)
 
 South Korea:
 
