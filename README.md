@@ -13,6 +13,7 @@ Standardization projects:
 * [NIST Post-Quantum Cryptography](https://csrc.nist.gov/Projects/post-quantum-cryptography)
 * [PQC Digital Signature Schemes](https://csrc.nist.gov/projects/pqc-dig-sig) (in progress)
 
+
 ### NIST standard algorithms
 
 KEMs (encryption, key agreement):
@@ -36,8 +37,11 @@ Signature schemes:
     - [FIPS 205: Stateless Hash-Based Digital Signature Standard (SLH-DSA)](https://csrc.nist.gov/pubs/fips/205/final)
     -  [SPHINCS+ official software](https://sphincs.org/software.html)
 
+
 ### Migration guidelines
 
+* [CISA Quantum-Readiness: Migration to Post-Quantum Cryptography](https://www.cisa.gov/sites/default/files/2023-08/Quantum%20Readiness_Final_CLEAR_508c%20%283%29.pdf)
+* [CISA Strategy for Migrating to Automated Post-Quantum Cryptography Discovery and Inventory Tools](https://www.cisa.gov/sites/default/files/2024-09/Strategy-for-Migrating-to-Automated-PQC-Discovery-and-Inventory-Tools.pdf)
 * [DHS PQC approach and roadmap](https://www.dhs.gov/quantum)
 * [NIST and NCCoE's Migration to PQC](https://www.nccoe.nist.gov/sites/default/files/2022-07/pqc-migration-project-description-final.pdf)
 * [NIST Migration to Post-Quantum Cryptography](https://www.nccoe.nist.gov/crypto-agility-considerations-migrating-post-quantum-cryptographic-algorithms)
@@ -124,7 +128,6 @@ RFCs:
 * RFC 9935: [Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) ](https://datatracker.ietf.org/doc/rfc9935/)
 * RFC 9794: [Terminology for Post-Quantum Traditional Hybrid Schemes ](https://www.rfc-editor.org/rfc/rfc9794.html)
 
-
 Internet-Drafts:
 
 * I-D [Composite ML-DSA for use in X.509 Public Key Infrastructure](https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/)
@@ -140,7 +143,6 @@ Internet-Drafts:
 * I-D [Use of Composite ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-reddy-tls-composite-mldsa/)
 * I-D [Use of ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mldsa/)
 * I-D [Use of the FN-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.ietf.org/archive/id/draft-turner-lamps-cms-fn-dsa-00.html)
-
 
 
 ## From tech companies
@@ -204,6 +206,7 @@ Tencent:
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 
+
 ### General-purpose libraries with PQC support
 
 Does not include TLS implementations listed later:
@@ -215,7 +218,6 @@ Does not include TLS implementations listed later:
 * [Google Tink](https://github.com/tink-crypto) - Multi-language (C++, Go, Java, Obj-C, Python) 
 
 
-
 ### PQC libraries and language-specific software
 
 C:
@@ -223,7 +225,7 @@ C:
 * [algorand/falcon](https://github.com/algorand/falcon) - Deterministic FALCON implementation
 * [liboqs](https://github.com/open-quantum-safe/liboqs) - From [Open Quantum Safe](https://openquantumsafe.org/)
 * [mupq/pqm4](https://github.com/mupq/pqm4) - PQC library for the ARM Cortex-M4
-* [PQ Code Package](https://github.com/pq-code-package) - A Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms (
+* [PQ Code Package](https://github.com/pq-code-package) - A Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms
 
 Go:
 
@@ -250,8 +252,6 @@ Zig:
   ML-DSA and ML-KEM in the standard library
 
 
-
-
 ### TLS implementations with PQC support
 
 * [aws/s2n-tls](https://github.com/aws/s2n-tls/)
@@ -259,6 +259,7 @@ Zig:
 * [OpenSSL](https://www.openssl.org/)
 * [Go crypto/tls](https://github.com/golang/go/tree/master/src/crypto/tls)
 * [wolfSSL](https://github.com/wolfSSL/wolfssl)
+
 
 ## Research surveys
 
