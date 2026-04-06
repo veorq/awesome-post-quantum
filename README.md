@@ -67,6 +67,7 @@ Survey papers:
 * [Open Quantum Safe](https://openquantumsafe.org/)
 * [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs)
 * [PQClean/PQClean](https://github.com/PQClean/PQClean)
+* [jagmarques/asqav-sdk](https://github.com/jagmarques/asqav-sdk) (ML-DSA-65 signed audit trails for AI agent governance)
 * [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto)
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) (Dilithium, Kyber, Sphincs+ in JS)
 * [PQ Code Package](https://github.com/pq-code-package) (a Linux Foundation [PQCA](https://pqca.org/) project building high-assurance implementations of standards-track algorithms)
