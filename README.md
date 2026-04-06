@@ -145,7 +145,7 @@ Internet-Drafts:
 * I-D [Use of the FN-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.ietf.org/archive/id/draft-turner-lamps-cms-fn-dsa-00.html)
 
 
-## From tech companies
+## From tech organizations
 
 Apple:
 
@@ -156,6 +156,7 @@ AWS:
 
 * [AWS KMS post-quantum TLS](https://aws.amazon.com/blogs/security/post-quantum-tls-now-supported-in-aws-kms/)
 * [AWS PQC Initiative](https://aws.amazon.com/security/post-quantum-cryptography/)
+* [AWS post-quantum cryptography migration plan](https://aws.amazon.com/blogs/security/aws-post-quantum-cryptography-migration-plan/)
 * [s2n-tls PQC implementation](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
 
 Cloudflare:
@@ -181,6 +182,10 @@ IBM:
 * [IBM Quantum Safe](https://www.ibm.com/quantum/quantum-safe)
 * [Quantum Safe Roadmap](https://www.ibm.com/quantum/quantum-safe/roadmap)
 
+Kubernetes:
+
+* [Post-Quantum Cryptography in Kubernetes](https://kubernetes.io/blog/2025/07/18/pqc-in-k8s/)
+
 Meta:
 
 * [Post-quantum readiness for TLS at Meta](https://engineering.fb.com/2024/05/22/security/post-quantum-readiness-tls-pqr-meta/)
@@ -191,6 +196,16 @@ Microsoft:
 * [LWEKE Reference implementations](https://github.com/Microsoft/PQCrypto-LWEKE)
 * [Microsoft PQC program](https://www.microsoft.com/en-us/research/project/post-quantum-cryptography/)
 * [Post-Quantum TLS](https://www.microsoft.com/en-us/research/project/post-quantum-tls/)
+
+Palo Alto Networks:
+
+* [A Complete Guide to Post-Quantum Cryptography Standards](https://www.paloaltonetworks.com/cyberpedia/pqc-standards)
+
+Red Hat:
+
+* [Post-quantum cryptography in Red Hat Enterprise Linux 10](https://www.redhat.com/en/blog/post-quantum-cryptography-red-hat-enterprise-linux-10)
+* [What’s new in post-quantum cryptography in RHEL 10.1](https://www.redhat.com/en/blog/whats-new-post-quantum-cryptography-rhel-101)
+
 
 Signal:
 
