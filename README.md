@@ -161,6 +161,7 @@ AWS:
 Cloudflare:
 
 * [A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/)
+* [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
 * [PQC solutions overview](https://www.cloudflare.com/pqc/)
 * [State of the post-quantum Internet in 2025](https://blog.cloudflare.com/pq-2025/)
