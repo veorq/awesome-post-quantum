@@ -56,8 +56,7 @@ Signature schemes:
 
 Australia:
 
-* [Australian Signals Directorate (ASD): Planning for post-quantum cryptography
-](https://www.cyber.gov.au/business-government/secure-design/quantum/planning-for-post-quantum-cryptography)
+* [Australian Signals Directorate (ASD): Planning for post-quantum cryptography ](https://www.cyber.gov.au/business-government/secure-design/quantum/planning-for-post-quantum-cryptography)
 
 
 Canada:
