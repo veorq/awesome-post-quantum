@@ -77,14 +77,6 @@ EU:
 * [ENISA Post-Quantum Cryptography Reports](https://www.enisa.europa.eu/topics/cryptography)
 * [ETSI Quantum-Safe Cryptography Specification Group](https://www.etsi.org/committee/1430-qsc)
 
-India:
-
-* [Implementation of Quantum Safe Ecosystem in India](https://dst.gov.in/sites/default/files/Report_TaskForce_PQMigration_4Feb26%20%28v1%29.pdf)
-
-Japan:
-
-* [Guidelines](https://www.cryptrec.go.jp/report/cryptrec-gl-2007-2024.pdf) (including PQC) by [CRYPTREC](https://www.cryptrec.go.jp/en/)
-
 France:
 
 * [ANSSI's views](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
@@ -93,6 +85,22 @@ Germany:
 
 * [BSI Cryptographic Mechanisms Recommendations (TR-02102-1)](https://www.bsi.bund.de/EN/Topics/CryptographicAlgorithms/cryptographic-algorithms_node.html)
 * [BSI Post-Quantum Cryptography Recommendations](https://www.bsi.bund.de/EN/Topics/Companies-and-Organisations/Information-and-Recommendations/Quantum-safe-cryptography/quantum-safe-cryptography_node.html)
+
+India:
+
+* [Implementation of Quantum Safe Ecosystem in India](https://dst.gov.in/sites/default/files/Report_TaskForce_PQMigration_4Feb26%20%28v1%29.pdf)
+
+Israel:
+
+* [Post Quantum Cryptography-ל היערכות](https://www.gov.il/BlobFolder/reports/alert_1855/he/ALERT-CERT-IL-W-1855.pdf)
+
+Japan:
+
+* [Guidelines](https://www.cryptrec.go.jp/report/cryptrec-gl-2007-2024.pdf) (including PQC) by [CRYPTREC](https://www.cryptrec.go.jp/en/)
+
+Malaysia:
+
+* [Post-Quantum Cryptography Migration Framework](https://www.cybersecurity.my/portal-main/services/post-quantum-overview)
 
 Netherlands:
 
