@@ -176,6 +176,10 @@ Google:
 * [Post-quantum cryptography in Chrome](https://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html)
 * [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
 
+Hashicorp:
+
+* [NIST’s post-quantum cryptography standards: Our plans](https://www.hashicorp.com/en/blog/nist-s-post-quantum-cryptography-standards-our-plans)
+
 IBM:
 
 * [Cryptographic Bill of Materials (CBOM)](https://www.ibm.com/quantum/quantum-safe/cbom)
