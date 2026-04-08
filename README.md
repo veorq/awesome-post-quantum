@@ -166,6 +166,7 @@ AWS:
 * [AWS PQC Initiative](https://aws.amazon.com/security/post-quantum-cryptography/)
 * [AWS post-quantum cryptography migration plan](https://aws.amazon.com/blogs/security/aws-post-quantum-cryptography-migration-plan/)
 * [s2n-tls PQC implementation](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
+* [Verifying and optimizing post-quantum cryptography at Amazon](https://www.amazon.science/blog/verifying-and-optimizing-post-quantum-cryptography-at-amazon)
 
 Cloudflare:
 
