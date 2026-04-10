@@ -234,6 +234,7 @@ Tencent:
 ## PQC software
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
+* [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
 
 
 ### General-purpose libraries with PQC support
