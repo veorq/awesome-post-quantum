@@ -305,6 +305,8 @@ Zig:
 ## Other resources
 
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
+* [PQC Crypto Registry](https://registry.projecteleven.com/) - By Project Eleven
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
+
