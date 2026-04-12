@@ -270,6 +270,12 @@ JavaScript:
 
 * [Post-Quantum Cryptography in .NET](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/)
 
+
+Python:
+
+* [qctrl/open-controls](https://github.com/qctrl/open-controls) - Q-CTRL's open-source Python package for creating and deploying error-robust quantum control protocols ( to control physical quantum hardware ).
+
+
 Rust:
 
 * [libcrux](https://crates.io/crates/libcrux) - Formally verified code
@@ -301,6 +307,14 @@ Zig:
 * [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf) by Google Quantum AI
 * [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 
+
+## Quantum Hardware & Networking
+
+* [40Gbps Tri-type Quantum Random Number Generator (PDF)](https://arxiv.org/pdf/2506.05627) - Research detailing Cisco's QRNG hardware for generating unbiased randomness from quantum vacuum noise.
+* [awslabs/palace](https://github.com/awslabs/palace) - AWS's open-source parallel computational electromagnetics solver, heavily utilized for the 3D simulation and design of superconducting quantum hardware.
+* [qiskit-community/qiskit-metal](https://github.com/qiskit-community/qiskit-metal) - IBM's open-source electronic design automation (EDA) software specifically built to help engineers design and simulate superconducting quantum devices.
+* [Quantum Data Center Infrastructures: A Scalable Architectural Design Perspective (PDF)](https://arxiv.org/pdf/2501.05598) - In-depth research from Cisco on building non-blocking photonic interconnects and circuit-switched quantum networks to distribute entanglement between distributed quantum processing units (QPUs).
+* [Suppressing quantum errors by scaling a surface code logical qubit (arXiv)](https://arxiv.org/abs/2207.06431) - Google Quantum AI's foundational hardware research preprint on the Sycamore processor, demonstrating the physical scaling of quantum error correction.
 
 ## Other resources
 
