@@ -202,6 +202,7 @@ Kubernetes:
 
 Meta:
 
+* [Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways](https://engineering.fb.com/2026/04/16/security/post-quantum-cryptography-migration-at-meta-framework-lessons-and-takeaways/)
 * [Post-quantum readiness for TLS at Meta](https://engineering.fb.com/2024/05/22/security/post-quantum-readiness-tls-pqr-meta/)
 
 Microsoft:
