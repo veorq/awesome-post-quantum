@@ -267,6 +267,7 @@ Go:
 JavaScript:
 
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon, and hybrids 
+* [@voidly/agent-sdk](https://www.npmjs.com/package/@voidly/agent-sdk) - E2E agent-to-agent messaging SDK using hybrid X25519 + ML-KEM-768 key exchange (via [mlkem](https://www.npmjs.com/package/mlkem))
 
 
 .NET:
