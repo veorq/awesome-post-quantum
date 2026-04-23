@@ -276,6 +276,7 @@ Rust:
 * [libcrux](https://crates.io/crates/libcrux) - Formally verified code
 * [RustCrypto/KEMs](https://github.com/RustCrypto/KEMs) - ML-KEM, FrodoKem
 * [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - ML-DSA, SLH-DSA, LMS
+* [orion-rs/orion](https://github.com/orion-rs/orion) - ML-KEM
 
 Zig:
 
