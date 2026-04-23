@@ -135,6 +135,7 @@ RFCs:
 * RFC 9881: [Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://datatracker.ietf.org/doc/html/rfc9881)
 * RFC 9935: [Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) ](https://datatracker.ietf.org/doc/rfc9935/)
 * RFC 9794: [Terminology for Post-Quantum Traditional Hybrid Schemes ](https://www.rfc-editor.org/rfc/rfc9794.html)
+* RFC 9941: [Secure Shell (SSH) Key Exchange Method Using Hybrid Streamlined NTRU Prime sntrup761 and X25519 with SHA-512: sntrup761x25519-sha512](https://www.rfc-editor.org/rfc/rfc9941.html)
 
 Internet-Drafts:
 
@@ -151,6 +152,7 @@ Internet-Drafts:
 * I-D [Use of Composite ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-reddy-tls-composite-mldsa/)
 * I-D [Use of ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mldsa/)
 * I-D [Use of the FN-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.ietf.org/archive/id/draft-turner-lamps-cms-fn-dsa-00.html)
+* I-D [PQ/T Hybrid Key Exchange with ML-KEM in SSH](https://www.ietf.org/archive/id/draft-ietf-sshm-mlkem-hybrid-kex-10.html)
 
 
 ## From tech organizations
