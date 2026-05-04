@@ -233,6 +233,10 @@ Tencent:
 
 * [PQC InfoHub](https://pqc.tencent.com/en)
 
+wolfSSL:
+
+* [wolfSSL Support for Post-Quantum](https://www.wolfssl.com/products/wolfcrypt-post-quantum/)
+* [PQC Webinar Playlist](https://www.youtube.com/playlist?list=PLeTqJcbs0QOcs_LssJtsvRFcMR3C6RNkw)
 
 ## PQC software
 
@@ -249,6 +253,7 @@ Does not include TLS implementations listed later:
 * [Bouncy Castle](https://www.bouncycastle.org/) - Java/C# 
 * [CIRCL (Cloudflare Interoperable, Reusable Cryptographic Library)](https://github.com/cloudflare/circl) - Go
 * [Google Tink](https://github.com/tink-crypto) - Multi-language (C++, Go, Java, Obj-C, Python) 
+* [wolfCrypt](https://github.com/wolfssl/wolfssl)
 
 
 ### PQC libraries and language-specific software
@@ -279,6 +284,7 @@ Rust:
 * [RustCrypto/KEMs](https://github.com/RustCrypto/KEMs) - ML-KEM, FrodoKem
 * [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - ML-DSA, SLH-DSA, LMS
 * [orion-rs/orion](https://github.com/orion-rs/orion) - ML-KEM
+* [wolfssl-rs](https://github.com/wolfSSL/wolfssl-rs)
 
 Zig:
 
