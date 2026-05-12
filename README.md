@@ -236,8 +236,9 @@ Tencent:
 
 ## PQC software
 
-* [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
+* [QuantumScan](https://quantumscan.io/) - Free scanner that detects RSA, ECDSA, SHA-1 and other quantum-vulnerable algorithms in GitHub repositories. Exports CycloneDX 1.7 CBOM and DORA/NIS2 compliance reports. ([open source scanner core](https://github.com/quantumscan-io/scanner-core))
+* [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 
 
 ### General-purpose libraries with PQC support
