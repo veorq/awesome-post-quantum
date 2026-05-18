@@ -120,6 +120,10 @@ South Korea:
   * [AIMer](https://www.kpqc.or.kr/images/pdf/AIMer.pdf) - Signature, MPC-in-the-head
   * [HAETAE](https://kpqc.cryptolab.co.kr/haetae) - Signature, lattice-based
 
+Spain:
+
+* [CCN Recommendations for a safe post-quantum transition](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/boletines-pytec/499-ccn-tec-009-recomendaciones-transicion-postcuantica-segura-english/file)
+
 United Kingdom:
 
 * [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography)
