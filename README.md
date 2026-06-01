@@ -300,6 +300,34 @@ Zig:
 * [wolfSSL](https://github.com/wolfSSL/wolfssl)
 
 
+## Blockchains
+
+Official documentation, plan, proposals, and specifications:
+
+Bitcoin:
+
+* [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
+
+Circle/Arc:
+
+* [Circle’s Post-Quantum Security Roadmap](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/quantum_paper.pdf)
+
+Ethereum: 
+
+* [Post-quantum cryptography on Ethereum](https://ethereum.org/roadmap/future-proofing/quantum-resistance/)
+* [pq.ethereum.org](https://pq.ethereum.org/)
+* [Lean Consensus R&D Progress](https://leanroadmap.org/)
+
+Solana:
+
+* [Securing Solana Against a Powerful Quantum Adversary](https://www.anza.xyz/blog/securing-solana-against-a-powerful-quantum-adversary)
+* [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness)
+
+Zcash:
+
+* [ZIP-2005: Orchard Quantum Recoverability](https://zips.z.cash/zip-2005)
+
+
 ## Research surveys
 
 * [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
