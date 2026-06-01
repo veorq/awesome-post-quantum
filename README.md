@@ -309,6 +309,7 @@ Zig:
 * [Post-quantum cryptography—dealing with the fallout of physics success](https://eprint.iacr.org/2017/314) by Daniel J. Bernstein and Tanja Lange
 * [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf) by Google Quantum AI
 * [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
+* [A Gentle Introduction to Lattice-Based Cryptography](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) by Alfred Menezes
 
 
 ## Other resources
