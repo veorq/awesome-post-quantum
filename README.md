@@ -304,13 +304,19 @@ Zig:
 
 Official documentation, plan, proposals, and specifications:
 
+Algorand:
+
+* [Technical Brief: Quantum-resistant transactions on Algorand with Falcon signatures](https://algorand.co/blog/technical-brief-quantum-resistant-transactions-on-algorand-with-falcon-signatures)
+
 Bitcoin:
 
 * [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
 
 Circle/Arc:
 
-* [Circle’s Post-Quantum Security Roadmap](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/quantum_paper.pdf)
+* [Circle’s Post-Quantum Security
+  Roadmap](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/quantum_paper.pdf):
+  "Arc will deploy a precompiled post-quantum signature verifier on mainnet (**SLH-DSA-SHA2-128s**) so smart accounts can validate post-quantum signatures on-chain."
 
 Ethereum: 
 
@@ -318,10 +324,24 @@ Ethereum:
 * [pq.ethereum.org](https://pq.ethereum.org/)
 * [Lean Consensus R&D Progress](https://leanroadmap.org/)
 
+NEAR:
+
+* [Preparing NEAR for the Quantum Computing Era](https://www.near.org/blog/making-near-protocol-post-quantum-safe): "The Near One team (...) decided to start with FIPS-204 (**ML-DSA**, prev.  Dilithium)"
+
+Polkadot:
+
+* [Post Quantum Cryptography Roadmap for Polkadot and
+  JAM](https://forum.polkadot.network/t/post-quantum-cryptography-roadmap-for-polkadot-and-jam/13232):
+  "We use both [**Falcon and Dilithium**] in different parts of the Polkadot protocol to replace all signature schemes."
+
+Ripple:
+
+* [Post-Quantum Readiness on the XRP Ledger](https://ripple.com/insights/post-quantum-readiness-on-the-xrp-ledger/)
+
 Solana:
 
 * [Securing Solana Against a Powerful Quantum Adversary](https://www.anza.xyz/blog/securing-solana-against-a-powerful-quantum-adversary)
-* [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness)
+* [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness): "The alignment around **Falcon** reflects extensive research around Solana’s quantum resiliency. "
 
 Zcash:
 
