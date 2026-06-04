@@ -308,6 +308,8 @@ Official documentation, plan, proposals, and specifications:
 Algorand:
 
 * [Technical Brief: Quantum-resistant transactions on Algorand with Falcon signatures](https://algorand.co/blog/technical-brief-quantum-resistant-transactions-on-algorand-with-falcon-signatures)
+* [Algorand Post-Quantum Ledger: Securing the ledger, one account type at a time](https://algorand.co/blog/algorand-post-quantum-ledger)
+* [Deterministic Falcon Signatures](https://github.com/algorandfoundation/specs/blob/master/_archive/dev/cryptographic-specs/falcon-deterministic.pdf)
 
 Bitcoin:
 
