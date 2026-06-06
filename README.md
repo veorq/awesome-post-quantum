@@ -314,6 +314,7 @@ Algorand:
 
 Bitcoin:
 
+* [BIP-360: Pay-to-Merkle-Root (P2MR)](https://bip360.org/)
 * [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
 
 Circle/Arc:
