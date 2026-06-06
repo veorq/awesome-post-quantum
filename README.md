@@ -223,6 +223,7 @@ Microsoft:
 Palo Alto Networks:
 
 * [A Complete Guide to Post-Quantum Cryptography Standards](https://www.paloaltonetworks.com/cyberpedia/pqc-standards)
+* [Quantum Readiness Guide](https://www.paloaltonetworks.co.uk/cyberpedia/quantum-readiness)
 
 Red Hat:
 
