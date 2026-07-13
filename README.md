@@ -274,6 +274,7 @@ Go:
 JavaScript:
 
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon, and hybrids 
+* [vesvault/subtlepq](https://github.com/vesvault/subtlepq) - ML-KEM and ML-DSA polyfill for the Web Cryptography API (WICG modern-algos draft), with delegation to native implementations and a DHKEM (RFC 9180) adapter for ECDH-to-KEM migration
 
 
 .NET:
