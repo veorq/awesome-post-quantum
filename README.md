@@ -324,6 +324,10 @@ Circle/Arc:
   Roadmap](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/quantum_paper.pdf):
   "Arc will deploy a precompiled post-quantum signature verifier on mainnet (**SLH-DSA-SHA2-128s**) so smart accounts can validate post-quantum signatures on-chain."
 
+Elara Mesh:
+
+* [navigatorbuilds/elara-mesh](https://github.com/navigatorbuilds/elara-mesh) - Post-quantum-native validation mesh in Rust (ML-DSA/Dilithium3 signatures throughout), with an offline receipt verifier
+
 Ethereum: 
 
 * [Post-quantum cryptography on Ethereum](https://ethereum.org/roadmap/future-proofing/quantum-resistance/)
