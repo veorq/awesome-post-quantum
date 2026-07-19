@@ -271,6 +271,10 @@ Go:
 
 * [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
 
+Java:
+
+* [PQC-Readiness](https://github.com/Arpan0995/pqc-migration-readiness) - Static auditor estimating post-quantum migration effort for Java codebases, with a runtime crypto-agility layer
+
 JavaScript:
 
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon, and hybrids 
