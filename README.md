@@ -109,6 +109,7 @@ Netherlands:
 
 Singapore:
 
+* [MAS Advisory on Addressing the Cybersecurity Risks Associated with Quantum](https://www.mas.gov.sg/-/media/mas-media-library/regulation/circulars/trpd/mas-quantum-advisory/mas-quantum-advisory.pdf)
 * [CSA Quantum-Safe Hanbook and Quantum Readiness Index](https://www.csa.gov.sg/resources/publications/quantum-safe-handbook-and-quantum-readiness-index/)
 
 South Korea:
@@ -123,6 +124,10 @@ South Korea:
 Spain:
 
 * [CCN Recommendations for a safe post-quantum transition](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/boletines-pytec/499-ccn-tec-009-recomendaciones-transicion-postcuantica-segura-english/file)
+
+Switzerland:
+
+* [FINMA Guidance 05/2026: Quantum Computing](https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/4dokumentation/finma-aufsichtsmitteilungen/20260709-finma-aufsichtsmitteilung-05-2026.pdf)
 
 United Kingdom:
 
