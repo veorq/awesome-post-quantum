@@ -188,6 +188,7 @@ Cloudflare:
 * [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
 * [PQC solutions overview](https://www.cloudflare.com/pqc/)
 * [State of the post-quantum Internet in 2025](https://blog.cloudflare.com/pq-2025/)
+* [Why we cannot wait for better post-quantum signature algorithms](https://blog.cloudflare.com/ml-dsa-will-have-to-do/)
 * [You don’t need quantum hardware for post-quantum security](https://blog.cloudflare.com/you-dont-need-quantum-hardware/)
 
 Google:
