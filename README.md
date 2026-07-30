@@ -250,6 +250,8 @@ Tencent:
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
+* [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous IDS/IPS that signs forensic alerts with ML-DSA-87 (NIST FIPS 204)
+* [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Self-hosted multi-LLM council that signs deliberation output with ML-DSA-87 (NIST FIPS 204)
 
 
 ### General-purpose libraries with PQC support
