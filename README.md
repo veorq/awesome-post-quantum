@@ -352,6 +352,7 @@ Ripple:
 
 Solana:
 
+* [Quantumglow: Will Solana’s Performance Survive Quantum Computing?](https://www.anza.xyz/blog/quantumglow-will-solana%E2%80%99s-performance-survive-quantum-computing): "we propose a **hash-based (XMSS-style)** signature scheme tailored specifically to Quantumglow"
 * [Securing Solana Against a Powerful Quantum Adversary](https://www.anza.xyz/blog/securing-solana-against-a-powerful-quantum-adversary)
 * [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness): "The alignment around **Falcon** reflects extensive research around Solana’s quantum resiliency. "
 
