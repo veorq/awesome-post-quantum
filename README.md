@@ -63,6 +63,8 @@ Australia:
 Canada:
 
 * [Communications Security Establishment (CSE) Quantum Threat Assessments](https://www.cse-cst.gc.ca/)
+* [Migrating the Government of Canada to Post-Quantum Cryptography: Security Policy Implementation Notice](https://www.canada.ca/en/government/system/digital-government/policies-standards/spin/migrating-government-canada-post-quantum-cryptography.html)
+* [Roadmap for the migration to post-quantum cryptography for the Government of Canada (ITSM.40.001)](https://www.cyber.gc.ca/en/guidance/roadmap-migration-post-quantum-cryptography-government-canada-itsm40001)
 
 China:
 
@@ -75,6 +77,7 @@ Czech Republic:
 
 EU: 
 
+* [A Coordinated Implementation Roadmap for the Transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/coordinated-implementation-roadmap-transition-post-quantum-cryptography)
 * [ENISA Post-Quantum Cryptography Reports](https://www.enisa.europa.eu/topics/cryptography)
 * [ETSI Quantum-Safe Cryptography Specification Group](https://www.etsi.org/committee/1430-qsc)
 
@@ -83,6 +86,10 @@ France:
 * [ANSSI](https://cyber.gouv.fr/en/technological-and-cybersecurity-challenges/post-quantum-cryptography/)
   initiatives and publications
 * [ANSSI views on the Post-Quantum Cryptography transition](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
+
+G7:
+
+* [G7 Cybersecurity Working Group Statement on preparing for a post-quantum cryptography migration](https://www.cyber.gc.ca/en/news-events/g7-cybersecurity-working-group-statement-preparing-post-quantum-cryptography-migration)
 
 Germany:
 
@@ -133,6 +140,7 @@ Switzerland:
 
 United Kingdom:
 
+* [NCSC's Timelines for migration to post-quantum cryptography](https://www.ncsc.gov.uk/guidance/pqc-migration-timelines)
 * [NCSC's Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography)
 
 
