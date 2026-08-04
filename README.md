@@ -178,7 +178,7 @@ Internet-Drafts:
 
 ## From tech organizations
 
-Ali Baba:
+Alibaba:
 
 * [What is Post-Quantum Encryption - And How to Enable It on ESA](https://www.alibabacloud.com/blog/what-is-post-quantum-encryption---and-how-to-enable-it-on-esa_603220)
 
