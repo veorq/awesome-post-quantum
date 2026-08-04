@@ -11,7 +11,8 @@ If you notice errors or obsolete content, please file PR or an Issue.
 
 Standardization projects: 
 * [NIST Post-Quantum Cryptography](https://csrc.nist.gov/Projects/post-quantum-cryptography)
-* [PQC Digital Signature Schemes](https://csrc.nist.gov/projects/pqc-dig-sig) (in progress)
+* [PQC Additional Digital Signature Schemes](https://csrc.nist.gov/projects/pqc-dig-sig) (in progress,
+  round 3)
 
 
 ### NIST standard algorithms
