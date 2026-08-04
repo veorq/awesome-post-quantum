@@ -219,6 +219,10 @@ Hashicorp:
 
 * [NIST’s post-quantum cryptography standards: Our plans](https://www.hashicorp.com/en/blog/nist-s-post-quantum-cryptography-standards-our-plans)
 
+HEOSSI:
+
+* [QNSI enterprise post-quantum security infrastructure](https://qnsi.heossi.com/platform) - Reference architectures, cryptographic discovery, governed migration, key and secrets management, and reproducible evidence.
+
 IBM:
 
 * [Cryptographic Bill of Materials (CBOM)](https://www.ibm.com/quantum/quantum-safe/cbom)
@@ -266,6 +270,7 @@ Tencent:
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
+* [QNSI](https://github.com/heossihq/qnsi-public) - Enterprise post-quantum security infrastructure with public SDKs, runnable scenarios, architecture documentation, and source provenance.
 
 
 ### General-purpose libraries with PQC support
@@ -396,4 +401,3 @@ Zcash:
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
-
