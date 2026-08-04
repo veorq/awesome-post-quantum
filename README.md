@@ -80,7 +80,9 @@ EU:
 
 France:
 
-* [ANSSI's views](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
+* [ANSSI](https://cyber.gouv.fr/en/technological-and-cybersecurity-challenges/post-quantum-cryptography/)
+  initiatives and publications
+* [ANSSI views on the Post-Quantum Cryptography transition](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography)
 
 Germany:
 
@@ -167,6 +169,10 @@ Internet-Drafts:
 
 
 ## From tech organizations
+
+Ali Baba:
+
+* [What is Post-Quantum Encryption - And How to Enable It on ESA](https://www.alibabacloud.com/blog/what-is-post-quantum-encryption---and-how-to-enable-it-on-esa_603220)
 
 Apple:
 
