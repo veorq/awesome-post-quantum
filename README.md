@@ -54,7 +54,6 @@ Signature schemes:
 
 * [GSMA: Post Quantum Government Initiatives by Country and Region](https://www.gsma.com/newsroom/post-quantum-government-initiatives-by-country-and-region)
 * [ISO/IEC JTC 1/SC 27 Working Group on PQC Standardization](https://www.iso.org/committee/45306.html)
-* [G7 CYBER EXPERT GROUP STATEMENT ON Advancing a Coordinated Roadmap for the Transition to Post-Quantum Cryptography in the Financial Sector](https://www.gov.uk/government/publications/advancing-a-coordinated-roadmap-for-the-transition-to-post-quantum-cryptography-in-the-financial-sector)
 
 Australia:
 
@@ -90,6 +89,7 @@ France:
 
 G7:
 
+* [G7 Cyber Expert Group Statement on Advancing a Coordinated Roadmap for the Transition to Post-Quantum Cryptography in the Financial Sector](https://www.gov.uk/government/publications/advancing-a-coordinated-roadmap-for-the-transition-to-post-quantum-cryptography-in-the-financial-sector)
 * [G7 Cybersecurity Working Group Statement on preparing for a post-quantum cryptography migration](https://www.cyber.gc.ca/en/news-events/g7-cybersecurity-working-group-statement-preparing-post-quantum-cryptography-migration)
 
 Germany:
