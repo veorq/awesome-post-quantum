@@ -371,6 +371,10 @@ Solana:
 * [Securing Solana Against a Powerful Quantum Adversary](https://www.anza.xyz/blog/securing-solana-against-a-powerful-quantum-adversary)
 * [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness): "The alignment around **Falcon** reflects extensive research around Solana’s quantum resiliency. "
 
+Sui:
+
+* [Making Sui Quantum Ready](https://www.sui.io/blog/making-sui-quantum-ready): "Sui is adding [...] **ML-DSA-65** as a native protocol signature scheme for everyday accounts, and **hash-based SLH-DSA-SHA2-128s** inside Move smart contracts for high-value vaults."
+
 Zcash:
 
 * [ZIP-2005: Orchard Quantum Recoverability](https://zips.z.cash/zip-2005)
