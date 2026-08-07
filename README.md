@@ -28,7 +28,7 @@ KEMs (encryption, key agreement):
 Signature schemes:
 
 * [FN-DSA (Falcon)](https://falcon-sign.info/) - Selected in 2022, lattice-based
-    - Presentation [FIPS 2026 Status Update](https://csrc.nist.gov/csrc/media/presentations/2025/fips-206-fn-dsa-(falcon)/images-media/fips_206-perlner_2.1.pdf)
+    - Presentation [FIPS 206 Status Update](https://csrc.nist.gov/csrc/media/presentations/2025/fips-206-fn-dsa-(falcon)/images-media/fips_206-perlner_2.1.pdf)
     - Presentation [Falcon, Towards FN-DSA](https://csrc.nist.gov/csrc/media/Presentations/2024/falcon/images-media/prest-falcon-pqc2024.pdf)
     - [Falcon official software](https://falcon-sign.info/impl/falcon.h.html)
 * [ML-DSA (Dilithium)](https://pq-crystals.org/dilithium/) - Selected in 2022, lattice-based
