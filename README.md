@@ -338,6 +338,8 @@ Bitcoin:
 
 * [BIP-360: Pay-to-Merkle-Root (P2MR)](https://bip360.org/)
 * [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
+* [Lattice-based Signature Schemes for Bitcoin](https://eprint.iacr.org/2026/1628)
+* [OP_CHECKSHRINCS: A Hash-Based Signature Opcode for Post-Quantum Bitcoin](https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/)
 
 Circle/Arc:
 
