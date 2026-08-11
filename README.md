@@ -208,10 +208,10 @@ Cloudflare:
 
 Google:
 
-* [Announcing quantum-safe digital signatures in Cloud KMS](https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms) - Implementation details for ML-DSA and SLH-DSA in cloud environments.
+* [Announcing quantum-safe digital signatures in Cloud KMS](https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms)
 * [Building superconducting and neutral atom quantum computers](https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/)
 * [FIDO2/WebAuthn post-quantum security keys](https://security.googleblog.com/)
-* [Google Cloud Post-Quantum Cryptography (PQC)](https://cloud.google.com/security/resources/post-quantum-cryptography) - Organizational PQC strategy, architecture, and hybrid cryptographic deployments.
+* [Google Cloud Post-Quantum Cryptography (PQC)](https://cloud.google.com/security/resources/post-quantum-cryptography) 
 * [Post-quantum cryptography in Chrome](https://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html)
 * [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
 
