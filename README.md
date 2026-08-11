@@ -338,6 +338,8 @@ Bitcoin:
 
 * [BIP-360: Pay-to-Merkle-Root (P2MR)](https://bip360.org/)
 * [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
+* [Lattice-based Signature Schemes for Bitcoin](https://eprint.iacr.org/2026/1628)
+* [OP_CHECKSHRINCS: A Hash-Based Signature Opcode for Post-Quantum Bitcoin](https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/)
 
 Circle/Arc:
 
@@ -370,6 +372,10 @@ Solana:
 * [Quantumglow: Will Solana’s Performance Survive Quantum Computing?](https://www.anza.xyz/blog/quantumglow-will-solana%E2%80%99s-performance-survive-quantum-computing): "we propose a **hash-based (XMSS-style)** signature scheme tailored specifically to Quantumglow"
 * [Securing Solana Against a Powerful Quantum Adversary](https://www.anza.xyz/blog/securing-solana-against-a-powerful-quantum-adversary)
 * [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness): "The alignment around **Falcon** reflects extensive research around Solana’s quantum resiliency. "
+
+Sui:
+
+* [Making Sui Quantum Ready](https://www.sui.io/blog/making-sui-quantum-ready): "Sui is adding [...] **ML-DSA-65** as a native protocol signature scheme for everyday accounts, and **hash-based SLH-DSA-SHA2-128s** inside Move smart contracts for high-value vaults."
 
 Zcash:
 
