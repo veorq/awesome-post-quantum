@@ -94,8 +94,8 @@ G7:
 
 Germany:
 
-* [BSI Cryptographic Mechanisms Recommendations (TR-02102-1)](https://www.bsi.bund.de/EN/Topics/CryptographicAlgorithms/cryptographic-algorithms_node.html)
-* [BSI Post-Quantum Cryptography Recommendations](https://www.bsi.bund.de/EN/Topics/Companies-and-Organisations/Information-and-Recommendations/Quantum-safe-cryptography/quantum-safe-cryptography_node.html)
+* [BSI TR-02102 Cryptographic Mechanisms](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html)
+* [BSI TR-02102-1 "Cryptographic Mechanisms: Recommendations and Key Lengths"](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TG02102/BSI-TR-02102-1.html)
 
 India:
 
