@@ -119,7 +119,10 @@ Netherlands:
 
 Russia:
 
-* [TC26 standards committee announces potential standards (Кодиеум, Шиповник)](https://tc26.ru/news/novosti-kriptografii/v-rossii-razrabotan-kriptograficheskiy-mekhanizm-sposobnyy-vyderzhivat-ataki-kvantovykh-kompyuterov.html)
+* [TC26 standards committee announces potential standards (Кодиеум,
+  Шиповник)](https://tc26.ru/news/novosti-kriptografii/v-rossii-razrabotan-kriptograficheskiy-mekhanizm-sposobnyy-vyderzhivat-ataki-kvantovykh-kompyuterov.html):
+    * KEM [Кодиеум/Codium](https://ruscrypto.ru/resource/archive/rc2024/files/05_vysotskaya_chizhov.pdf)
+    * Signature [Шиповник/Shipovnik](https://ruscrypto.ru/resource/archive/rc2024/files/05_vysotskaya_das.pdf)
 
 Singapore:
 
