@@ -117,6 +117,10 @@ Netherlands:
 
 * [AIVD's PQC Migration Handbook](https://english.aivd.nl/documents/2024/12/3/the-pqc-migration-handbook)
 
+Russia:
+
+* [TC26 standards committee announces potential standards (Кодиеум, Шиповник)](https://tc26.ru/news/novosti-kriptografii/v-rossii-razrabotan-kriptograficheskiy-mekhanizm-sposobnyy-vyderzhivat-ataki-kvantovykh-kompyuterov.html)
+
 Singapore:
 
 * [MAS Advisory on Addressing the Cybersecurity Risks Associated with Quantum](https://www.mas.gov.sg/-/media/mas-media-library/regulation/circulars/trpd/mas-quantum-advisory/mas-quantum-advisory.pdf)
