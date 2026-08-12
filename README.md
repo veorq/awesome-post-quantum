@@ -208,6 +208,7 @@ Cloudflare:
 
 Google:
 
+* Roadmap: [PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap](https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/)
 * [Announcing quantum-safe digital signatures in Cloud KMS](https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-digital-signatures-in-cloud-kms)
 * [Building superconducting and neutral atom quantum computers](https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/)
 * [FIDO2/WebAuthn post-quantum security keys](https://security.googleblog.com/)
