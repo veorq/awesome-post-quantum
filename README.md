@@ -120,8 +120,10 @@ Netherlands:
 Russia:
 
 * [TC26 standards committee announces potential standards](https://tc26.ru/news/novosti-kriptografii/v-rossii-razrabotan-kriptograficheskiy-mekhanizm-sposobnyy-vyderzhivat-ataki-kvantovykh-kompyuterov.html):
-    * [Кодиеум/Codium](https://ruscrypto.ru/resource/archive/rc2024/files/05_vysotskaya_chizhov.pdf) - KEM, code-based
-    * [Шиповник/Shipovnik](https://ruscrypto.ru/resource/archive/rc2024/files/05_vysotskaya_das.pdf) - Signature, code-based
+    * [Codiaeum/Кодиеум](https://ruscrypto.ru/resource/archive/rc2024/files/05_vysotskaya_chizhov.pdf) - KEM, code-based
+    * [Hypericum](https://link.springer.com/article/10.1007/s11416-024-00520-6) - Signature, hash-based
+    * [Shipovnik/Шиповник](https://ruscrypto.ru/resource/archive/rc2024/files/05_vysotskaya_das.pdf) - Signature, code-based
+    * [Zemlyanika/Земляника](https://eprint.iacr.org/2025/746) - KEM, lattice-based
 
 Singapore:
 
@@ -391,7 +393,7 @@ Zcash:
 
 ## Research surveys
 
-* [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939.pdf) by Chris Peikert
+* [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939) by Chris Peikert
 * [A Survey on Code-Based Cryptography](https://arxiv.org/abs/2201.07119) by Violetta Weger, Niklas Gassner and Joachim Rosenthal
 * [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
 * [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) by Daniel J. Bernstein, Johannes Buchmann and Erik Dahmen
