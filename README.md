@@ -413,5 +413,6 @@ Zcash:
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
+* [quantakrypto pqc-tools](https://quantakrypto.com/tools) - Open-source scanner + CycloneDX CBOM generator for quantum-vulnerable crypto, with NIST PQC migration guidance ([source](https://github.com/quantakrypto/pqc-tools))
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
 
