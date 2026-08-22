@@ -97,6 +97,10 @@ Germany:
 * [BSI TR-02102 Cryptographic Mechanisms](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html)
 * [BSI TR-02102-1 "Cryptographic Mechanisms: Recommendations and Key Lengths"](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TG02102/BSI-TR-02102-1.html)
 
+Hong Kong:
+
+* [HKMA Quantum Preparedness of Hong Kong’s Banking Sector](https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2026/20260727e3a1.pdf)
+
 India:
 
 * [Implementation of Quantum Safe Ecosystem in India](https://dst.gov.in/sites/default/files/Report_TaskForce_PQMigration_4Feb26%20%28v1%29.pdf)
