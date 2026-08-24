@@ -394,6 +394,7 @@ Zcash:
 * [PQC Crypto Registry](https://registry.projecteleven.com/) - By Project Eleven
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
+* [QNSI ML-KEM ACVP Reproducibility Study](https://arxiv.org/abs/2608.13784) - Frozen reproducibility protocol evaluating noble, liboqs, and Go against pinned public NIST ML-KEM ACVP vectors; MIT two-command artifact at doi:10.5281/zenodo.21910571.
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
 
