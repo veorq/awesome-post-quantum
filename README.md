@@ -413,6 +413,7 @@ Zcash:
 ## Other resources
 
 * [[PQ]probe](https://pqprobe.com/app)
+* [Awesome PQC Resources](https://github.com/bro256/Awesome-PQC-Resources)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
 * [PQC Crypto Registry](https://registry.projecteleven.com/) - By Project Eleven
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
