@@ -75,11 +75,12 @@ Czech Republic:
 * [Minimum Requirements for Cryptographic Algorithms](https://nukib.gov.cz/download/publications_en/Minimum%20Requirements%20for%20Cryptographic%20Algorithms.pdf)
 * [Quantum Threat and Quantum Resistant Cryptography](https://nukib.gov.cz/download/publications_en/Annex%20to%20the%20document_Minimum%20Requirements%20for%20Cryptographic%20Algorithms.pdf)
 
-EU: 
+EU:
 
 * [A Coordinated Implementation Roadmap for the Transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/coordinated-implementation-roadmap-transition-post-quantum-cryptography)
 * [ENISA Post-Quantum Cryptography Reports](https://www.enisa.europa.eu/topics/cryptography)
 * [ETSI Quantum-Safe Cryptography Specification Group](https://www.etsi.org/committee/1430-qsc)
+* [Europe's Post-Quantum Readiness 2026 An Empirical Assessment of the EU-27](https://zenodo.org/records/21782641)
 
 France:
 
