@@ -147,6 +147,11 @@ Spain:
 
 * [CCN Recommendations for a safe post-quantum transition](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/boletines-pytec/499-ccn-tec-009-recomendaciones-transicion-postcuantica-segura-english/file)
 
+
+Sweden:
+
+* [Nationella rekommendationer för övergången till kvantsäker kryptografi](https://www.ncsc.se/sv/aktuellt/kvantsaker-kryptografi/) (Translation: National recommendations for the transition to quantum secure cryptography.)
+
 Switzerland:
 
 * [FINMA Guidance 05/2026: Quantum Computing](https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/4dokumentation/finma-aufsichtsmitteilungen/20260709-finma-aufsichtsmitteilung-05-2026.pdf)
