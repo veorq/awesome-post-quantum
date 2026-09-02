@@ -285,6 +285,7 @@ Tencent:
 
 ## PQC software
 
+* [Ombracrypt](https://github.com/ABiswasDev/Ombracrypt) - PQC KEM based file encryption utility with anti-coercion duress codes.
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
 
