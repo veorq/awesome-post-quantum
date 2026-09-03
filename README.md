@@ -62,6 +62,7 @@ Signature schemes:
 * [DHS PQC approach and roadmap](https://www.dhs.gov/quantum)
 * [NIST and NCCoE's Migration to PQC](https://www.nccoe.nist.gov/sites/default/files/2022-07/pqc-migration-project-description-final.pdf)
 * [NIST Migration to Post-Quantum Cryptography](https://www.nccoe.nist.gov/crypto-agility-considerations-migrating-post-quantum-cryptographic-algorithms)
+* [NSA Post-Quantum Cybersecurity Resources](https://www.nsa.gov/Cybersecurity/Post-Quantum-Cybersecurity-Resources/)
 * [NSA PQC FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [Quantum Computing Cybersecurity Preparedness Act](https://www.congress.gov/bill/117th-congress/house-bill/7535/text)
 
@@ -74,6 +75,12 @@ Signature schemes:
 Australia:
 
 * [ASD: Planning for post-quantum cryptography](https://www.cyber.gov.au/business-government/secure-design/quantum/planning-for-post-quantum-cryptography)
+
+
+Brazil:
+
+* [Brazilian Digital Government Strategy: define a post-quantum cryptographic standard by 2027](https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/EFGD/portaria-sgd-mgi-no-6-618-de-25-de-setembro-de-2024)
+* [OSIC 15/2024: Emerging technologies and information security](https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/osic/copy_of_osic-15-2024/)
 
 
 Canada:
@@ -134,9 +141,25 @@ Malaysia:
 
 * [Post-Quantum Cryptography Migration Framework](https://www.cybersecurity.my/portal-main/services/post-quantum-overview)
 
+NATO:
+
+* [NATO's Quantum Technologies Strategy](https://www.nato.int/en/news-and-events/articles/news/2024/01/17/nato-releases-first-ever-quantum-strategy)
+
 Netherlands:
 
 * [AIVD's PQC Migration Handbook](https://english.aivd.nl/documents/2024/12/3/the-pqc-migration-handbook)
+
+New Zealand:
+
+* [New Zealand Information Security Manual: Preparation for Post-Quantum Cryptography](https://nzism.gcsb.govt.nz/)
+
+Norway:
+
+* [NSM Quantum Migration Guidance](https://nsm.no/fagomrader/digital-sikkerhet/kryptosikkerhet/kvantemigrasjon/)
+
+Poland:
+
+* [National Cybersecurity Strategy: Post-Quantum Cryptography Migration](https://www.gov.pl/attachment/b4cd0658-76f2-4ed6-a4e1-53650ca043d2)
 
 Russia:
 
