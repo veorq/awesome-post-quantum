@@ -1,4 +1,4 @@
-# Awesome Post-Quantum [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Post-Quantum
 
 A curated list of resources about post-quantum cryptography.
 
