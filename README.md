@@ -197,6 +197,7 @@ RFCs:
 * RFC 9794: [Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html)
 * RFC 9941: [Secure Shell (SSH) Key Exchange Method Using Hybrid Streamlined NTRU Prime sntrup761 and X25519 with SHA-512: sntrup761x25519-sha512](https://www.rfc-editor.org/rfc/rfc9941.html)
 * RFC 9958: [Post-Quantum Cryptography for Engineers](https://www.rfc-editor.org/rfc/rfc9958.html)
+* RFC 10024:[Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3] (https://datatracker.ietf.org/doc/rfc10024/)
 
 Internet-Drafts:
 
@@ -209,7 +210,6 @@ Internet-Drafts:
 * I-D [Merkle Tree Certificates](https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/)
 * I-D [ML-KEM Post-Quantum Key Agreement for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/)
 * I-D [Post-Quantum and Post-Quantum/Traditional Hybrid Algorithms for HPKE](https://datatracker.ietf.org/doc/draft-ietf-hpke-pq/)
-* I-D [Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/)
 * I-D [Post-quantum Key Exchange with ML-KEM in the Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/)
 * I-D [PQ/T Hybrid Key Exchange with ML-KEM in SSH](https://www.ietf.org/archive/id/draft-ietf-sshm-mlkem-hybrid-kex-10.html)
 * I-D [Use of Composite ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-reddy-tls-composite-mldsa/)
@@ -256,6 +256,7 @@ Google:
 * [Google Cloud Post-Quantum Cryptography (PQC)](https://cloud.google.com/security/resources/post-quantum-cryptography)
 * [Post-quantum cryptography in Chrome](https://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html)
 * [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
+* [Chrome: Post-Quantum HTTPS Authentication Roadmap](https://www.chromium.org/Home/chromium-security/post-quantum-auth-roadmap/)
 
 Hashicorp:
 
@@ -364,6 +365,9 @@ Zig:
 * [Go crypto/tls](https://github.com/golang/go/tree/master/src/crypto/tls)
 * [wolfSSL](https://github.com/wolfSSL/wolfssl)
 
+### SSH implementations with PQC support
+
+* [OpenSSH](https://www.openssh.org/pq.html) 
 
 ## Blockchains
 
