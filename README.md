@@ -197,7 +197,7 @@ RFCs:
 * RFC 9794: [Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html)
 * RFC 9941: [Secure Shell (SSH) Key Exchange Method Using Hybrid Streamlined NTRU Prime sntrup761 and X25519 with SHA-512: sntrup761x25519-sha512](https://www.rfc-editor.org/rfc/rfc9941.html)
 * RFC 9958: [Post-Quantum Cryptography for Engineers](https://www.rfc-editor.org/rfc/rfc9958.html)
-* RFC 10024:[Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3] (https://datatracker.ietf.org/doc/rfc10024/)
+* RFC 10024:[Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3](https://datatracker.ietf.org/doc/rfc10024/)
 
 Internet-Drafts:
 
