@@ -446,9 +446,12 @@ Zcash:
 * [[PQ]probe](https://pqprobe.com/app)
 * [Awesome PQC Resources](https://github.com/bro256/Awesome-PQC-Resources)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
+* [Crypto-View](https://cryptoview.qcomply.tech/) - By [QComply](https://qcomply.tech/). Codebase scanner for quantum-vulnerable cryptography (Java, Python, JS/TS, Go, PEM/SSH/JOSE/TLS configs) with CycloneDX 1.7 CBOM output; web, CLI and [GitHub Action](https://github.com/marketplace/actions/cryptography-view)
 * [PQC Crypto Registry](https://registry.projecteleven.com/) - By Project Eleven
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [PQ Readiness Index](https://github.com/xuxu298/PQReadinessIndex) - Active TLS 1.3 probes of a fixed 350-host list, sector aggregates and open methodology
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
+* [QComply Inspector](https://chromewebstore.google.com/detail/qcomply-inspector/bklhclhmdipgciipkbadlafjpkblefkn) - By [QComply](https://qcomply.tech/). Chrome extension showing whether the visited site supports a quantum-safe connection and whether its HTTPS certificate is quantum-safe
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
+* Qubit Messenger - By [QComply](https://qcomply.tech/). Post-quantum messaging app for [iOS](https://apps.apple.com/ch/app/qubit-messenger/id6769332669) and [Android](https://play.google.com/store/apps/details?id=qubit.qcomply.tech)
