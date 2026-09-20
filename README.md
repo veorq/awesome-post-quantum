@@ -309,6 +309,7 @@ Tencent:
 
 * [SUPERCOP](https://bench.cr.yp.to/results-kem.html) - Benchmarks for cryptographic software
 * [PQConnect](https://www.pqconnect.net/) - Network-layer PQ-protected tunneling
+* [Q-Trust](https://github.com/humoge7502/q-trust) - Open-source PQC migration scanner (CBOM inventory, GNN-ranked planning, on-chain attestation)
 
 
 ### General-purpose libraries with PQC support
