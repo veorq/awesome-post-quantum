@@ -388,6 +388,7 @@ Bitcoin:
 * [BIP-361: Post Quantum Migration and Legacy Signature Sunset](https://www.bip361.org/)
 * [Lattice-based Signature Schemes for Bitcoin](https://eprint.iacr.org/2026/1628)
 * [OP_CHECKSHRINCS: A Hash-Based Signature Opcode for Post-Quantum Bitcoin](https://blog.blockstream.com/op_checkshrincs-a-hash-based-signature-opcode-for-post-quantum-bitcoin/)
+* [pqbit](https://github.com/BartoszOsiej/pqbit) - Post-quantum Bitcoin implementation in Rust: ML-DSA-44/SLH-DSA (FIPS 204/205) signatures from genesis, UTXO + PoW testnet node, fair launch.
 
 Circle/Arc:
 
