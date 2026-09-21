@@ -86,6 +86,7 @@ Canada:
 China:
 
 * [Next-Generation Commercial Cryptographic Algorithms Program (NGCC)](https://www.niccs.org.cn/en/)
+* [NGCC Round 1 Candidates](https://www.niccs.org.cn/niccs/Round1Additional/pc/list.html)
 
 Czech Republic:
 
@@ -391,7 +392,7 @@ Bitcoin:
 Circle/Arc:
 
 * [Circle’s Post-Quantum Security
-  Roadmap](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/quantum_paper.pdf):
+  Roadmap](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/quantum_paper.pdf) -
   "Arc will deploy a precompiled post-quantum signature verifier on mainnet (**SLH-DSA-SHA2-128s**) so smart accounts can validate post-quantum signatures on-chain."
 
 Ethereum:
@@ -402,12 +403,12 @@ Ethereum:
 
 NEAR:
 
-* [Preparing NEAR for the Quantum Computing Era](https://www.near.org/blog/making-near-protocol-post-quantum-safe): "The Near One team (...) decided to start with FIPS-204 (**ML-DSA**, prev. Dilithium)"
+* [Preparing NEAR for the Quantum Computing Era](https://www.near.org/blog/making-near-protocol-post-quantum-safe) - "The Near One team (...) decided to start with FIPS-204 (**ML-DSA**, prev. Dilithium)"
 
 Polkadot:
 
 * [Post Quantum Cryptography Roadmap for Polkadot and
-  JAM](https://forum.polkadot.network/t/post-quantum-cryptography-roadmap-for-polkadot-and-jam/13232):
+  JAM](https://forum.polkadot.network/t/post-quantum-cryptography-roadmap-for-polkadot-and-jam/13232) -
   "We use both [**Falcon and Dilithium**] in different parts of the Polkadot protocol to replace all signature schemes."
 
 Ripple:
@@ -416,13 +417,13 @@ Ripple:
 
 Solana:
 
-* [Quantumglow: Will Solana’s Performance Survive Quantum Computing?](https://www.anza.xyz/blog/quantumglow-will-solana%E2%80%99s-performance-survive-quantum-computing): "we propose a **hash-based (XMSS-style)** signature scheme tailored specifically to Quantumglow"
+* [Quantumglow: Will Solana’s Performance Survive Quantum Computing?](https://www.anza.xyz/blog/quantumglow-will-solana%E2%80%99s-performance-survive-quantum-computing) - "we propose a **hash-based (XMSS-style)** signature scheme tailored specifically to Quantumglow"
 * [Securing Solana Against a Powerful Quantum Adversary](https://www.anza.xyz/blog/securing-solana-against-a-powerful-quantum-adversary)
-* [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness): "The alignment around **Falcon** reflects extensive research around Solana’s quantum resiliency. "
+* [Solana’s Quantum Readiness](https://solana.com/news/quantum-readiness) - "The alignment around **Falcon** reflects extensive research around Solana’s quantum resiliency. "
 
 Sui:
 
-* [Making Sui Quantum Ready](https://www.sui.io/blog/making-sui-quantum-ready): "Sui is adding [...] **ML-DSA-65** as a native protocol signature scheme for everyday accounts, and **hash-based SLH-DSA-SHA2-128s** inside Move smart contracts for high-value vaults."
+* [Making Sui Quantum Ready](https://www.sui.io/blog/making-sui-quantum-ready) - "Sui is adding [...] **ML-DSA-65** as a native protocol signature scheme for everyday accounts, and **hash-based SLH-DSA-SHA2-128s** inside Move smart contracts for high-value vaults."
 
 Zcash:
 
@@ -431,14 +432,14 @@ Zcash:
 
 ## Research surveys
 
-* [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939) by Chris Peikert
-* [A Survey on Code-Based Cryptography](https://arxiv.org/abs/2201.07119) by Violetta Weger, Niklas Gassner and Joachim Rosenthal
-* [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) by Luca de Feo
-* [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) by Daniel J. Bernstein, Johannes Buchmann and Erik Dahmen
-* [Post-quantum cryptography—dealing with the fallout of physics success](https://eprint.iacr.org/2017/314) by Daniel J. Bernstein and Tanja Lange
-* [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf) by Google Quantum AI
-* [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
-* [A Gentle Introduction to Lattice-Based Cryptography](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) by Alfred Menezes
+* [A Decade of Lattice-Based Cryptography](https://eprint.iacr.org/2015/939) - By Chris Peikert
+* [A Survey on Code-Based Cryptography](https://arxiv.org/abs/2201.07119) - By Violetta Weger, Niklas Gassner and Joachim Rosenthal
+* [Mathematics of Isogeny-Based Cryptography](https://arxiv.org/abs/1711.04062) - By Luca de Feo
+* [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) - By Daniel J. Bernstein, Johannes Buchmann and Erik Dahmen
+* [Post-quantum cryptography—dealing with the fallout of physics success](https://eprint.iacr.org/2017/314) - By Daniel J. Bernstein and Tanja Lange
+* [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf) - By Google Quantum AI
+* [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) - By Oded Regev
+* [A Gentle Introduction to Lattice-Based Cryptography](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) - By Alfred Menezes
 
 
 ## Other resources
