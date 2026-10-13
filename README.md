@@ -339,6 +339,7 @@ Go:
 JavaScript:
 
 * [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) - ML-KEM, ML-DSA, SLH-DSA, Falcon, and hybrids
+* [shieldfive/crypto](https://github.com/shieldfive/crypto) - Client-side file encryption with ML-KEM-1024 + XChaCha20-Poly1305 and Argon2id, built on noble
 
 
 .NET:
