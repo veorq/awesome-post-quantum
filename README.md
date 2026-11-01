@@ -115,6 +115,7 @@ Germany:
 
 * [BSI TR-02102 Cryptographic Mechanisms](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html)
 * [BSI TR-02102-1 "Cryptographic Mechanisms: Recommendations and Key Lengths"](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TG02102/BSI-TR-02102-1.html)
+* [BSI TR-02102-2 "Cryptographic Mechanisms: Use of Transport Layer Security (TLS)"](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TG02102/BSI-TR-02102-2.html) - version 2026-01, announces the recommendation of hybrid ML-KEM groups for TLS 1.3 ([unofficial JSON of the tables](https://github.com/ciphermeter/tr-02102-2-regelwerk))
 
 Hong Kong:
 
