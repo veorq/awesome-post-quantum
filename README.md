@@ -336,6 +336,7 @@ C:
 Go:
 
 * [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
+* [misiektoja/go-composite-mldsa](https://github.com/misiektoja/go-composite-mldsa) - Composite ML-DSA signatures and X.509 certificates (ML-DSA with RSA, ECDSA or Ed25519)
 
 JavaScript:
 
