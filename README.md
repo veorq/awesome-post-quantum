@@ -335,6 +335,7 @@ C:
 
 Go:
 
+* [everanium/itb](https://github.com/everanium/itb) - PQC symmetric cryptographic isolator library (resistant to Johnson quantum walks, non-abelian HSP, and hidden-shift sieves) and 3-to-8 multi-KEM, verified in Lean 4
 * [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
 
 JavaScript:
