@@ -452,3 +452,4 @@ Zcash:
 * [PQ Readiness Index](https://github.com/xuxu298/PQReadinessIndex) - Active TLS 1.3 probes of a fixed 350-host list, sector aggregates and open methodology
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
+* [TLSView](https://addons.mozilla.org/firefox/addon/tlsview/) - Firefox extension showing whether a site's TLS key exchange is traditional, hybrid post-quantum (PQ/T) or pure post-quantum ([source](https://github.com/bro256/tlsview))
