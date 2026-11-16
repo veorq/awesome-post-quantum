@@ -448,6 +448,7 @@ Zcash:
 * [[PQ]probe](https://pqprobe.com/app)
 * [Awesome PQC Resources](https://github.com/bro256/Awesome-PQC-Resources)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
+* [Error Correction Zoo](https://errorcorrectionzoo.org) - Catalog of classical and quantum error-correcting codes, including the binary Goppa codes of the McEliece cryptosystem
 * [PQC Crypto Registry](https://registry.projecteleven.com/) - By Project Eleven
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
