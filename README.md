@@ -402,6 +402,10 @@ Ethereum:
 * [pq.ethereum.org](https://pq.ethereum.org/)
 * [Lean Consensus R&D Progress](https://leanroadmap.org/)
 
+MONEU:
+
+* [MONEU White Paper](https://github.com/natusor/MONEU-White-Paper/blob/main/MONEU-White-Paper_EN.md) - "Spending one output reveals **four leaves** together with their paths through the tree."
+  
 NEAR:
 
 * [Preparing NEAR for the Quantum Computing Era](https://www.near.org/blog/making-near-protocol-post-quantum-safe) - "The Near One team (...) decided to start with FIPS-204 (**ML-DSA**, prev. Dilithium)"
