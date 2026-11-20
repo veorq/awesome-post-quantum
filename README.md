@@ -453,4 +453,5 @@ Zcash:
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [PQ Readiness Index](https://github.com/xuxu298/PQReadinessIndex) - Active TLS 1.3 probes of a fixed 350-host list, sector aggregates and open methodology
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
+* [qrp-mcp](https://github.com/StanimirTenev/qrp-mcp) - Offline scanner that inventories quantum-vulnerable cryptography (RSA, ECDSA, DH) in source code and configuration as a CycloneDX CBOM, and lists the files it did not read
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
