@@ -452,5 +452,6 @@ Zcash:
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [PQ Readiness Index](https://github.com/xuxu298/PQReadinessIndex) - Active TLS 1.3 probes of a fixed 350-host list, sector aggregates and open methodology
+* [PQ-Proof](https://github.com/g1mn/pqproof) - Offline check that a PQC migration is complete, with recomputable evidence; also matches KpqC implementations against reference KATs
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
