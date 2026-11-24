@@ -454,3 +454,4 @@ Zcash:
 * [PQ Readiness Index](https://github.com/xuxu298/PQReadinessIndex) - Active TLS 1.3 probes of a fixed 350-host list, sector aggregates and open methodology
 * [PQ-SORT: Post-Quantum Signatures On-Ramp Tests](https://pqsort.tii.ae/)
 * [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org)
+* [Quantum Scan](https://github.com/Hard-Keel/quantum-scan-cli) - Open-source scanner that inventories quantum-vulnerable encryption in code, config and live TLS/SSH, with CycloneDX CBOM output
