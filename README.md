@@ -336,6 +336,7 @@ C:
 Go:
 
 * [Go crypto/mlkem](https://pkg.go.dev/crypto/mlkem) - Official Go implementation of Kyber/ML-KEM
+* [nyxsynth-pqc-x402-bench](https://github.com/NyxSynth/nyxsynth-pqc-x402-bench) - Zero-dependency Go 1.27 stdlib FIPS 203 (ML-KEM-768) & FIPS 204 (ML-DSA-65) benchmark and HTTP 402 settlement proof harness.
 
 JavaScript:
 
