@@ -406,6 +406,11 @@ NEAR:
 
 * [Preparing NEAR for the Quantum Computing Era](https://www.near.org/blog/making-near-protocol-post-quantum-safe) - "The Near One team (...) decided to start with FIPS-204 (**ML-DSA**, prev. Dilithium)"
 
+Newsatoshi:
+
+* [A Store of Order — Newsatoshi Whitepaper & Specification (NEWSATOSHI/2.0)](https://newsatoshi.org/white-paper/) - Hash-only post-quantum Layer-1 mainnet merge-mined with Bitcoin AuxPoW (`chainid = 20051`), using NIST FIPS 205 (**SLH-DSA**), SHA-256, and transparent Winterfell STARKs (zero elliptic curves, zero trusted setup).
+* [NEWSATOSHI/2.1 Companion Whitepaper & Lean 4.36 Soundness Kernel](https://commons.newsatoshi.org/whitepaper) - 355-line zero-Mathlib, zero-`sorry` Lean 4 formal soundness proof ([`NewsatoshiCovenants.lean`](https://github.com/theguysaccount/newsatoshi-commons/blob/main/formal/NewsatoshiCovenants.lean)) for Winterfell 0.13 Blake3-256 STARK spending covenants and pure-SHA-256 PayWord micropayments.
+
 Polkadot:
 
 * [Post Quantum Cryptography Roadmap for Polkadot and
