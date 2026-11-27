@@ -406,6 +406,11 @@ NEAR:
 
 * [Preparing NEAR for the Quantum Computing Era](https://www.near.org/blog/making-near-protocol-post-quantum-safe) - "The Near One team (...) decided to start with FIPS-204 (**ML-DSA**, prev. Dilithium)"
 
+Newsatoshi:
+
+* [NEWSATOSHI/2.2 Whitepaper (PDF)](https://newsatoshi.org/newsatoshi-v2.2.pdf) - Pure FIPS SHA-2/SHA-384 shielded Layer-1 using Quartic Goldilocks STARKs (100–104b conservative QROM), FIPS 205 (SLH-DSA), ML-KEM-768 P2P transport, and Lean 4 mechanized spend soundness (0 elliptic curves, 0 trusted setup).
+* [newsatoshi-rfc0021 (Rust L1 & Lean 4 proofs)](https://github.com/theguysaccount/newsatoshi-rfc0021)
+
 Polkadot:
 
 * [Post Quantum Cryptography Roadmap for Polkadot and
