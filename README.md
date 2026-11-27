@@ -449,6 +449,7 @@ Zcash:
 * [Awesome PQC Resources](https://github.com/bro256/Awesome-PQC-Resources)
 * [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
 * [PQC Crypto Registry](https://registry.projecteleven.com/) - By Project Eleven
+* [Post-Quantum Blockchains](https://github.com/Balance0014/post-quantum-blockchains) - Source-checked map of which blockchains use post-quantum signatures, with which schemes and limits, and when each entry was last checked
 * [PQCrypto Usage & Deployment](https://ianix.com/pqcrypto/pqcrypto-deployment.html)
 * [PQC Forum](https://groups.google.com/a/list.nist.gov/g/pqc-forum) - NIST's discussion list
 * [PQ Readiness Index](https://github.com/xuxu298/PQReadinessIndex) - Active TLS 1.3 probes of a fixed 350-host list, sector aggregates and open methodology
